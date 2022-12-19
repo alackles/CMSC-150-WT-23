@@ -8,13 +8,13 @@ toc_icon: "cog"
 
 ## Front Matter
 
-| Title | Introduction to Programming with Python |
+| Title | Introduction to Computer Science |
 | ----- | ----------- |
 | Instructor | Dr. Acacia Ackles |
-| Code | CMSC 140 |
+| Code | CMSC 150 |
 | Units | 6 |
 | Room | Briggs 419 |
-| Time | MW 1:50 PM - 3:00 Pm (Lecture); Th 8:30 AM - 10:15 AM (Lab) |
+| Time | MWF 9:50 AM - 11:00 AM (Lecture); Tu 8:30 AM - 10:15 AM (Lab) |
 
 ### Course Materials
 
@@ -23,7 +23,7 @@ toc_icon: "cog"
 | Gradebook | Canvas | Link | Hub for your learning materials
 | Autograder | Gradescope | Link | Upload Homeworks & Labs |
 | Reading Portal | Persuall | via Canvas |  Reading before class 
-| Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | Free to read, but we will be using Perusall for tracking reading.
+| Textbook | Think Java, 2nd Edition | [Link](https://greenteapress.com/wp/think-java-2e/) | Free to read, but we will be using Perusall for tracking reading.
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
 ### Student Drop-In Hours
@@ -37,46 +37,39 @@ These are the times when my schedule is blocked off for nothing but to talk to y
 If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
 ## Overview
 
-This course will teach you the basics of how to program with Python. 
+This course is intended as the first course for a major or minor in Computer Science. But it’s also, at its heart, a course on problem-solving. After all, programming a computer involves understanding what problem we are trying to solve, identifying one or more ways we can approach solving that problem, and coming up with a step-by-step process for solving the problem. This step-by-step solution, translated into a computer language (Java in this case) is what ultimately becomes our computer program. This whole procedure is called _algorithmic thinking_, and is a big part of what this class is all about.
 
-It won't teach you theory of computer science, and it won't make you a Python magician, but it will make you functional at talking to your computer and asking it to do things for you. Think of it like a 10-week crash course in a foreign language: you won't become fluent, but you'll be able to read the bus schedule and ask for the restrooms. 
+You might be surprised that this class is actually not intended to teach you Java. This class is actually intended to teach you the _basics of computer science and computer programming_, and we _use_ Java as a tool to get there. The material you learn in this class is transferable to other object-oriented programming languages. My goal is to get you "thinking like a computer scientist", moreso than it is to make you an excellent Java programmer.  
 
-If that sounds like fun to you, then good! Let's go. If you're looking for something else, you maybe looking for [CMSC 150](https://www.lawrence.edu/academics/college/computer-science/course-descriptions).
+If that sounds like fun to you, then good! Let's go. If you're looking for something else--and in particular, if you are looking for only a single course in CMSC--you maybe looking for [CMSC 140](https://www.lawrence.edu/academics/college/computer-science/course-descriptions).
 
 ## Learning Goals
 
 By the end of this course, you should be able to do the following: 
 
-- **L1: Basics**:  Take a problem, break it down into a series of steps (an algorithm), identify the programming components most appropriate to use for each step, use those components in Python to tell the computer how to solve the problem. Those components include:
+
+- **L1: Algorithmic Thinking**: Take a problem, break it down into a series of steps (an algorithm), and be able to articulate in words, not just in code, how to approach a problem and apply relevant principles of algorithm design. 
+- **L2: Programming Basics**: Identify the programming components most appropriate to use for each step of an alrogithm and use those components in Java to tell the computer how to solve the problem. Those components include:
   - variables
   - loops (for and while)
   - conditionals 
   - functions
   - lists
   - dictionaries
-- **L2: Data Processing**: Process data from external files and user input to address a specific task related to that data  
+  - classes
+  - methods
 - **L3: Debugging**: Debug syntactic and logical errors in a program in a systematic fashion, and know how to ask good questions when new problems arise
 - **L4: Style**: Write code that is easy for others to understand because it uses effective variable names and comments, and is well-organized using functions (including main) and objects as appropriate
 - **L5: Code Review**: Read and explain code written by others and approach that process in a systematic way
 - **L6: Collaboration**: Use Git and GitHub to handle versioning of projects and sharing of projects with collaborators 
-- **L7: Reading**: Be able to carefully read and interpret written instructional material related to Python programming
+- **L7: Reading**: Be able to carefully read and interpret written instructional material related to Java programming and computer science
 - **L8: Reflection**: Be able to reflect on your work and identify areas of strength and areas for improvement
-
-Importantly, there are a few things you may find in first courses targeted at CS majors that this course **does not** cover. In particular, we will **not** focus on:
-
-- Object-oriented programming. This is the biggest one; Python can be used as an object-oriented language but this is _not_ an OOP class.
-- Graphical user interface tools for Python (though you can optionally explore these in your final project)
-- Big-O notation and computational complexity
-- Efficient sorting and searching 
-- Recursion and dynamic programming 
-
-This content is covered more thoroughly in CMSC 150, the course for majors. If any of these topics are of great importance to you, I suggest taking CMSC 150 instead of 140. 
 
 ## Assessment
 
 This class will probably be graded very differently than you're used to. We'll take time at the beginning of class to discuss the structure and assessment for the class. **Please read everything below**, but here are the main bullet points:
 
-- Every assessment (homework, labs, and final project) will be graded on a mastery scale
+- Every assessment (homework, labs, exams, and final project) will be graded on a mastery scale
 - Every learning objective will have associated assessments; demonstrating mastery of those assessments will demonstrate mastery of the learning objective
 - The more learning objectives you demonstrate mastery of, the higher grade I can give you
 - All assessments may be revised however much you wish
@@ -93,19 +86,37 @@ All reading for this course will be tracked on **Perusall**. You will earn credi
 
 You can access Persuall via Canvas on the sidebar.
 
+### Quizzes
+
+Every Friday for the last 10 minutes of class, you will have a **quiz** to check your progress in the course.
+
+These are closed-book paper quizzes that will test your understanding of algorithmic concepts and basic Java syntax without assistance.  
+
+The purpose of these quizzes is to track your progress in the course and make sure you're on track for our different learning objectives. Like attendance, they are tracked, but are not factored into your grade.
+
 ### Homework, Labs, and Final Project
 
-You will have three different kinds of assessments:
+You will have three different kinds of outside-of-class assessments:
 
 - **Homework**. These are assessments completed outside of class. They will typically be due one week after they are assigned. 
 - **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
-- **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/CMSC-140-WT-23/final-project) tab.
+- **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/CMSC-150-WT-23/final-project) tab.
+
+### Exams
+
+There will be two exams in the course; one in Week 4 and one in Week 7. 
+
+These are proctored, individual, in-person, computer-based exams. You will have access to your code editor of choice, and the documentation for the Java language.
+
+The purpose of these exams is to test your _ability to apply your understanding of Java to unfamiliar scenarios_. Each exam will consist of a difficult problem which you will need to break down into component pieces to solve. More information about the exams will be available a week before they are scheduled.
 
 ### How to Turn In Work
 
 **Homework** and **Labs** will be turned in to **Gradescope**.
 
-Your final project will be uploaded to your GitHub as a repository. We will set up your github in the first week of class.
+**Exams** will be turned in to **Canvas**.
+
+Your **final project** will be uploaded to your GitHub as a repository, and the link submitted to **Canvas**. We will set up your github in the first week of class.
 ### Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
@@ -137,31 +148,22 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
 
-**L1: Basics** 
-- All Homeworks (HW1-HW5)
+**L1: Algorithmic Thinking**
+
+**L2: Programming Basics** 
+- All Homework (HW1-HW5)
 - All Labs (LAB1-LAB7)
 
-**L2: Data Processing** 
-- Lab 2: Collatz Conjecture
-- Lab 5: DNA Sequencing
-- Lab 7: Heating Up
-
 **L3: Debugging** 
-- HW5 
-- Lab 8: Debug Challenge
 - Revision of any homework where you did _not_ earn mastery credit
 
 **L4: Style** 
-- All Homeworks (HW1-HW5)
-- LAB2-LAB6
 
 **L5: Code Review** 
- - Homework 3
- - Lab 8: Debug Challenge
  - Final Project Peer Review
 
 **L6: Collaboration** 
-- Lab 1: Python Setup
+- Lab 1: Java Setup
 - Final Project Draft
 - Final Project Peer Review
 
@@ -199,7 +201,11 @@ _Example_: You have demonstrated Mastery of L1-L5 and L8, but earned proficiency
 
 ### Revisions
 
-Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. **For that reason, any and all homeworks and labs in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
+Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. 
+
+#### Homework and Labs
+
+**For that reason, any and all homeworks and labs in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
 
 If you are revising **within one week** of the original feedback, I will guarantee feedback within a week of your revised submission. 
 
@@ -208,6 +214,10 @@ If you are revising **after one week** from the original feedback, I cannot guar
 _Example 1:_ Homework 3 is due October 6th. You receive your feedback and a mastery score of Proficient on October 9th. You resubmit the assignment on October 16th. You are guaranteed to receive new feedback and an updated mastery score by October 23rd.
 
 _Example 2:_ Lab 2 takes place on September 22nd. You receive your feedback and a mastery score of Novice on September 24th. A while later, you decide to redo the lab and resubmit on October 24th. You may not receive feedback or an updated score until the end of the term. You could also receive it more quickly than that, depending on how busy I might be with other revisions. 
+
+#### Exams
+
+One of your two exams may be retaken during the scheduled finals period to give you another opportunity for mastery credit. If you wish to do this, you must let me know **in advance**. 
 
 ### Late Work & Extensions
 
@@ -229,7 +239,6 @@ If there is ever a situation where you're unsure if something is acceptable coll
 
 The following are **always** allowed on homeworks, labs, and projects.
 
-- Posting general questions on Piazza about how to solve the problems in class
 - Attending student hours and asking questions about the approach you are taking, then incorporating that approach into your code.
 - Discussing the concepts in the class with your classmates on a general level, e.g. in words or with pseudocode
 - Having someone else read your code with you and provide suggestions which you then implement yourself
