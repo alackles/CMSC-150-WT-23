@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CMSC 140: Introduction to Programming with Python"
+title                    : "CMSC 150: Introduction to Computer Science"
 title_separator          : "-"
 subtitle                 : "Winter 2023"
-description              : "Materials for the winter 2023 term of CMSC 140 Introduction to Programming with Python at Lawrence University. Taught by Acacia Ackles."
-repository               : "alackles/CMSC-140-WT-23"
+description              : "Materials for the winter 2023 term of CMSC 150 Introduction to Computer Science at Lawrence University. Taught by Acacia Ackles."
+repository               : "alackles/CMSC-150-WT-23"
 # Site Author
 author:
   name: Acacia Ackles
