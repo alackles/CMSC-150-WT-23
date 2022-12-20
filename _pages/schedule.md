@@ -12,79 +12,56 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
-| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | Persuall Intro (Syllabus) | |
-| Th 1/5 | _Lab: GitHub & VSCode + Hello, World_ | | HW1 |
-| **Week 2** | **Conditionals & Loops** | | |
-| M 1/9 | if/else | Perusall |
-| W 1/11 | for and while loops | Perusall | |
-| Th 1/12 | _Lab: The Collatz Conjecture_ | HW1 | HW2 |
-| **Week 3** | **More Data Types** | | |
+| Tu 1/3 | Intro + _Lab 1: GitHub & VSCode + Hello, World_ | Persuall Intro (Syllabus) | | 
+| W 1/4 | Algorithmic Thinking | Persuall | |
+| F 1/6 | Variables and Operators + Quiz 1 | Persuall | HW1 |
+| **Week 2** | **Methods & Functions** | | |
+| M 1/9 | Input/Output | Perusall | |
+| Tu 1/10 | _Lab 2: Thinking Like a Computer_ | | |
+| W 1/11 | Functions: Void | Perusall | |
+| F 1/13 | Functions: Return + Quiz 2 | Persuall + HW1 | HW2 |
+| **Week 3** | **Conditionals & Logic** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
-| W 1/18 | Lists and Dictionaries | Perusall | |
-| Th 1/19 | _Lab: Search Strategies_ | HW2 | HW3 |
-| **Week 4** | **Functions** | | |
-| M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
-| W 1/25 | Functions pt II: Return and Import | Perusall | |
-| Th 1/26 | _Lab: Revisit_ | HW3 | HW4 |
-| **Week 5** | **Strings & Pattern Matching** | | |
+| Tu 1/17 | _Lab 3: Testing and Scaffolding_ | | | 
+| W 1/18 | if/else & switch | Perusall | |
+| F 1/19 | Boolean logic + Quiz 3 | Persuall + HW2 | |
+| **Week 4** | **Iteration & Strings** | | |
+| M 1/23 | while/for | Perusall | | 
+| T 1/24 | _Exam 1 Review_ | | |
+| W 1/25 | Nested loops | Persuall | |
+| F 1/27 | **EXAM 1** | | HW3|
+| **Week 5** | **Strings & Arrays** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
-| W 2/1 | Regex  | Perusall |  | 
-| Th 2/2 | _Lab: DNA Sequencing_ | HW4; Middle-of-Term Eval |  HW5 |
-| **Week 6** | **Basic File Handling** | | |
-| M 2/6 | Pathing | Perusall; Final Project Proposal | |
-| W 2/8 | File I/O | Perusall; HW5 | | 
-| _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
-| **Week 7** | **Advanced File Handling** | | |
-| M 2/13 | File I/O Cont'd |  | |
-| W 2/15 | Data Visualization | Perusall | |
-| Th 2/16 | _Lab: Heating Up_ | | |
-| **Week 8** | **Debugging** | | |
-| M 2/20 | Documentation and Error Handling | | | 
-| W 2/22 | Asking Good Questions  | | |
-| Th 2/23 | _Lab: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
-| **Week 9** | **Bonus Content** | | | 
-| M 2/27 | TBD: Student Choice | | |
-| W 3/1 | TBD: Student Choice | | |
-| Th 3/2 | Final Project Revisions | Final Project Peer Comments |
+| Tu 1/31 | _Lab 4: The Collatz Conjecture_ | | |
+| W 2/1 | Arrays | Perusall |  | 
+| F 2/3 | Other Data Structures + Quiz 4 | Persuall + HW3 | HW4 |
+| **Week 6** | **Classes: Basics** | | |
+| M 2/6 | Classes: Constructors & Accessors| Perusall | |
+| Tu 2/7 | _Lab 5: Designing a Database_ | | |
+| W 2/8 | Classes: Mutators & Overrides + Quiz 5 | Perusall + HW4 | | 
+| _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
+| **Week 7** | **Objects** | | |
+| M 2/13 | Mutable Objects | Perusall | |
+| Tu 2/14 | _Exam 2 Review_ | | |
+| W 2/15 | Immutable Objects | Perusall | |
+| F 2/17 | EXAM 2 | |
+| **Week 8** | **Final Project & Advanced Classes** | | |
+| M 2/20 | Final Project Discussion | Final Project Proposal | | 
+| Tu 2/21 | _NO LAB: Final Project Proposal Meetings_ |  | |
+| W 2/22 | Arrays of Objects | Perusall | |
+| F 2/24 | Inheritance + Quiz 6 | Perusall | |
+| **Week 9** | **Writing Good Code** | | | 
+| M 2/27 | Documentation & Error handling | Final Project Draft | Final Project Peer Comments |
+| Tu 2/28 | _Lab 6: Debug Challenge_ | | |
+| W 3/1 | Asking Good Questions | | |
+| F 3/3 | Final Project Work |  |  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
-| M 3/6 | Final Project Work |  | | 
-| W 3/8 | Course Debrief & Feedback |  | End-of-Term Eval |
-| Th 3/9 | _Lab: Final Project Work_
+| M 3/6 | TBD: Student Choice | Final Project Peer Comments | | 
+| Tu 3/7 | _Lab: Final Project Work_ | | |
+| W 3/8 | TBD: Student Choice | | |
+| F 3/10 | Course Debrief & Feedback | | End-of-Term Eval |
 
 **Final Projects Due Wednesday, March 15 by 5:30 PM**
 
 
 [syllabus]: https://alackles.github.io/CMSC-14-WT-23/syllabus/
-
-[hw-1]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk1/
-[hw-2]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk2/
-[hw-3]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk3/
-[hw-4]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk4/
-[hw-5]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk5/
- 
-[lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
-[lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
-[lab-3]: https://alackles.github.io/CMSC-140-WT-23/labs/lab3/
-[lab-4]: https://alackles.github.io/CMSC-140-WT-23/labs/lab4/
-[lab-5]: https://alackles.github.io/CMSC-140-WT-23/labs/lab5/
-[lab-6]: https://alackles.github.io/CMSC-140-WT-23/labs/lab7/
-[lab-7]: https://alackles.github.io/CMSC-140-WT-23/labs/lab8/
-
-[notes-wk1-vars]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk1-vars/
-[notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
-[notes-wk2-loops]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-loops/
-[notes-wk3-functions]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-functions/
-[notes-wk3-scope]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-scope/
-[notes-wk4-imports]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-imports/
-[notes-wk4-lists]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk4-lists/
-[notes-wk4-dicts]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk4-dicts/
-[notes-wk5-strings]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk5-strings/
-[notes-wk5-regex]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk5-regex/
-[notes-wk6-pathing]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk6-pathing/
-[notes-wk6-file]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk6-basic-io/
-[notes-wk7-file]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk7-adv-io/
-[notes-wk8-docs]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk8-docs/
-[notes-wk8-mwe]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk8-mwe/
-[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk9-imports2/
-
-[mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8

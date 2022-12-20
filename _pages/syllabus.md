@@ -48,8 +48,7 @@ If that sounds like fun to you, then good! Let's go. If you're looking for somet
 By the end of this course, you should be able to do the following: 
 
 
-- **L1: Algorithmic Thinking**: Take a problem, break it down into a series of steps (an algorithm), and be able to articulate in words, not just in code, how to approach a problem and apply relevant principles of algorithm design. 
-- **L2: Programming Basics**: Identify the programming components most appropriate to use for each step of an alrogithm and use those components in Java to tell the computer how to solve the problem. Those components include:
+- **L1: Algorithmic Thinking & Programming Basics**: Take a problem, break it down into a series of steps (an algorithm), and identify the programming components most appropriate to use in Java to tell the computer how to solve the problem. Those components include:
   - variables
   - loops (for and while)
   - conditionals 
@@ -58,12 +57,12 @@ By the end of this course, you should be able to do the following:
   - dictionaries
   - classes
   - methods
-- **L3: Debugging**: Debug syntactic and logical errors in a program in a systematic fashion, and know how to ask good questions when new problems arise
-- **L4: Style**: Write code that is easy for others to understand because it uses effective variable names and comments, and is well-organized using functions (including main) and objects as appropriate
-- **L5: Code Review**: Read and explain code written by others and approach that process in a systematic way
-- **L6: Collaboration**: Use Git and GitHub to handle versioning of projects and sharing of projects with collaborators 
-- **L7: Reading**: Be able to carefully read and interpret written instructional material related to Java programming and computer science
-- **L8: Reflection**: Be able to reflect on your work and identify areas of strength and areas for improvement
+- **L2: Debugging**: Debug syntactic and logical errors in a program in a systematic fashion, and know how to ask good questions when new problems arise
+- **L3: Style**: Write code that is easy for others to understand because it uses effective variable names and comments, and is well-organized using functions and objects as appropriate
+- **L4: Code Review**: Read and explain code written by others and approach that process in a systematic way
+- **L5: Collaboration**: Use Git and GitHub to handle versioning of projects and sharing of projects with collaborators 
+- **L6: Reading**: Be able to carefully read and interpret written instructional material related to Java programming and computer science
+- **L7: Reflection**: Be able to reflect on your work and identify areas of strength and areas for improvement
 
 ## Assessment
 
@@ -146,32 +145,42 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 | **N** | Novice | Demonstrates mastery on 50% or more of all associated assessments OR has "Novice" work on ANY assignment |
 | **IC** | Incomplete | Has not demonstrated mastery on at least 50% of assignments for that objective |
 
-Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
+Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask).
 
-**L1: Algorithmic Thinking**
+**L1: Algorithmic Thinking & Programming Basics**
+- All Homework (HW1-HW4)
+- All Labs (LAB1-LAB6)
+- Exam 1
+- Exam 2
 
-**L2: Programming Basics** 
-- All Homework (HW1-HW5)
-- All Labs (LAB1-LAB7)
+**L2: Debugging** 
+- HW 3
+- Lab 6: Debug Challenge
+- Exam 1 
+- Exam 2
 
-**L3: Debugging** 
-- Revision of any homework where you did _not_ earn mastery credit
+**L3: Style** 
+- All Homework (HW1-HW4)
+- Lab 2
+- Lab 3
+- Lab 4
+- Lab 5
 
-**L4: Style** 
-
-**L5: Code Review** 
+**L4: Code Review** 
+ - HW 2
+ - HW 4
  - Final Project Peer Review
 
-**L6: Collaboration** 
-- Lab 1: Java Setup
+**L5: Collaboration** 
+- Lab 1
 - Final Project Draft
 - Final Project Peer Review
 
-**L7: Reading**
+**L6: Reading**
 
 For mastery credit, you must **complete the Perusall reading before class** at least 80% of the time. There are 10 assigned readings; this means you must complete 8 of them. For proficiency credit, you must complete 6 out of 10. Lower than that earns an Incomplete on this objective. 
 
-**L8: Reflection**
+**L7: Reflection**
 
 For mastery credit you must complete revisions of **any three assessments**. These assessments can even be ones you already earned mastery credit for the first time around. (Work not turned in/marked "Incomplete" does not count.) There's always something to tweak or try differently next time! 2/3 will earn a Proficiency. Lower than that earns an Incomplete on this objective.
 
@@ -198,6 +207,8 @@ Your final project grade is a **modifier** on these grades.
 If you fail to turn in a final project, your grade will drop one letter grade (e.g. if you would have gotten a B based on your learning objectives, you will now get a C). 
 
 _Example_: You have demonstrated Mastery of L1-L5 and L8, but earned proficiency in L6 and L7. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
+
+I will post your final grades without the final project modifier to Canvas by the end of Week 9 so that you can 1. decide whether you want to try to earn any additional mastery points and 2. let me know of any possible discrepancies.
 
 ### Revisions
 
