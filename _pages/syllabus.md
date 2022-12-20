@@ -302,6 +302,7 @@ Here are some other assorted course policies that may be added to over the term.
 - Food and drink are always okay to have in class, but I'm not responsible if your laptop gets drenched.
 - If you are experiencing a childcare or dependent care emergency, you are welcome to bring your child/dependent to class if you choose to attend.
 - Your health and wellbeing as a human are more important than any university course, including mine. 
+  
 ## Pedagogy
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
@@ -310,7 +311,7 @@ This section exists because I'm a big believer in transparency. For one, I think
 
 Metacognition has been repeatedly shown to enhance student independence and success ([1][biggs], [2][schraw]). Metacognition is literally "thinking about thinking"; what leads you to the conclusions you reach when you're learning a new topic? What assumptions are you making when approaching a new topic that might be helping or hurting your understanding? 
 
-Ten weeks is a pretty short time frame to try to get really deep into metacognitive practices, so I really just try to incorporate reflection and revision into the course as much as possible. That's why one of our first labs is a revision of one of the other labs, and why all assessments can be revised and resubmitted at any time. 
+Ten weeks is a pretty short time frame to try to get really deep into metacognitive practices, so I really just try to incorporate reflection and revision into the course as much as possible. That's why all assessments can be revised and resubmitted at any time. 
 
 ### Ungrading
 
