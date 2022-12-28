@@ -191,10 +191,10 @@ This will translate to the gradebook as follows:
 
 | **LU Grade** | CMSC 140 Requirements |
 | ------- | ------- |
-| **A** | Demonstrate mastery (**M**) for all 8 learning objectives.
-| **B** | Demonstrate mastery (**M**) for 5-7 learning objectives and proficiency (**P**) in remaining objectives. NOTE: Must demonstrate Mastery (**M**) of **L1: Basics**. 
+| **A** | Demonstrate mastery (**M**) for all 7 learning objectives.
+| **B** | Demonstrate mastery (**M**) for 4-6 learning objectives and proficiency (**P**) in remaining objectives. NOTE: Must demonstrate Mastery (**M**) of **L1: Basics**. 
 | **C** | Demonstrate proficiency (**P**) or better in all learning objectives. 
-| **D** | Demonstrate proficiency (**P**) in 5-7 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
+| **D** | Demonstrate proficiency (**P**) in 4-6 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
 | **F** | Demonstrates proficiency in fewer than 4 learning objectives OR is not at least proficient in **L1: Basics**.
 
 Your final project grade is a **modifier** on these grades. 
@@ -207,7 +207,7 @@ Your final project grade is a **modifier** on these grades.
 
 If you fail to turn in a final project, your grade will drop one letter grade (e.g. if you would have gotten a B based on your learning objectives, you will now get a C). 
 
-_Example_: You have demonstrated Mastery of L1-L5 and L8, but earned proficiency in L6 and L7. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
+_Example_: You have demonstrated Mastery of L1-L4 and L7, but earned proficiency in L5 and L6. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
 
 I will post your final grades without the final project modifier to Canvas by the end of Week 9 so that you can 1. decide whether you want to try to earn any additional mastery points and 2. let me know of any possible discrepancies.
 
