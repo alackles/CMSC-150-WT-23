@@ -20,17 +20,18 @@ toc_icon: "cog"
 
 | Material | Name | Link| Notes |
 | ----- | ----- |----- | ---- |
-| Gradebook | Canvas | Link | Hub for your learning materials
-| Autograder | Gradescope | Link | Upload Homeworks & Labs |
-| Reading Portal | Persuall | via Canvas |  Reading before class 
-| Textbook | Think Java, 2nd Edition | [Link](https://greenteapress.com/wp/think-java-2e/) | Free to read, but we will be using Perusall for tracking reading.
+| Gradebook | Canvas | [Link](https://lawrence.instructure.com/courses/4824) | Learning Hub
+| Autograder | Gradescope | [Link](https://www.gradescope.com/courses/479446) | Homeworks & Labs |
+| Reading Portal | Persuall | via Canvas |  Reading 
+| Textbook | Think Java, 2nd Edition | [Link](https://greenteapress.com/wp/think-java-2e/) | _Free to read; tracked on Perusall_
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
 ### Student Drop-In Hours
 
-**Office:** Steitz 131 (NOTE: NOT BRIGGS)
+| Office | Time | Days |
+| ----- | ----- | ----- |
+| Steitz 131 (NOT Briggs) | 11:00 AM - 12:00 PM | M/Tu/W/Th/F
 
-**Time:** 11:00 AM - 12:00 PM (Daily)
 
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
