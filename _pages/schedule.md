@@ -12,7 +12,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
-| Tu 1/3 | Intro + _Lab 1: GitHub & VSCode + Hello, World_ | [Pre-Class Survey][survey] | | 
+| Tu 1/3 | Intro + [_Lab 1: Setup & Installation_][lab1] | [Pre-Class Survey][survey] | | 
 | W 1/4 | Algorithmic Thinking | Persuall | |
 | F 1/6 | Variables and Operators + Quiz 1 | Persuall | HW1 |
 | **Week 2** | **Methods & Functions** | | |
@@ -67,3 +67,5 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [syllabus]: https://alackles.github.io/CMSC-14-WT-23/syllabus/
 
 [survey]: https://forms.gle/rDthQ7BWk4aW2gkdA
+
+[lab1]: https://alackles.github.io/CMSC-14-WT-23/labs/lab1-setup
