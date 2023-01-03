@@ -113,7 +113,7 @@ First, let's create an empty file.
 On **Windows**, you can do this by typing the following:
 
 ```
-type nul >> "test.txt"
+copy nul > "test.txt"
 ```
 
 On **Mac**, you can type:
@@ -126,7 +126,7 @@ Now if you type `ls`, you should see this file. You can also open your file mana
 
 Next, let's move that empty file into your CMSC150 folder. 
 
-On **Windows**, you can move a file from one folder to another with the command `move filename1 folder2\`. On **Mac**, the command is `mv filename1 folder2\`. So in this case, it would be:
+On **Windows**, you can move a file from one folder to another with the command `move filename1 folder2\`. On **Mac**, the command is `mv filename1 folder2/`. So in this case, it would be:
 
 **Windows:** 
 
@@ -137,7 +137,7 @@ move test.txt CMSC150\
 **Mac:**
 
 ```
-mv test.txt CMSC150\
+mv test.txt CMSC150/
 ```
 
 Verify the file has moved by going into your CMSC150 folder and typing `ls` again to see its contents, and/or using your file manager GUI.
