@@ -68,4 +68,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [survey]: https://forms.gle/rDthQ7BWk4aW2gkdA
 
-[lab1]: https://alackles.github.io/CMSC-14-WT-23/labs/lab1-setup
+[lab1]: https://alackles.github.io/CMSC-14-WT-23/labs/lab1

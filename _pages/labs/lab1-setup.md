@@ -205,8 +205,8 @@ Importantly, pay attention to the Extensions tab on the left; it looks like four
 
 I suggest searching and installing the following:
 
- - Python by Microsoft – for better Python suggestions
- - GitLens by GitKraken – for integration with GitHub
+ - Extension Pack for Java by Microsoft – for Java development suggestions and autocomplete
+ - GitLens by GitKraken – for integration with GitHub later in the course
  - Rainbow CSV by mechatroner – for easier-to-read files, when we get there
 
 You can also feel free to install other extensions that you just think might be fun. For example, I’ve installed Dracula Official as a color theme.
@@ -215,13 +215,14 @@ You can also feel free to install other extensions that you just think might be 
 
 Let's write and execute our first Java program together. **This part of the lab will be more sparse than the previous parts of the guide, because we're doing it together in class.** If you miss class, please come see me to do this together in student hours.
 
+It's traditional that your first program in a new language is a simple program that prints the phrase "Hello, world!" to the terminal. **For right now, we are going to write and compile this program without really understanding how the program works.** This is just to get you familair with the workflow of writing a script (a file that contains some code to run), compiling it, and running it. Next class, we'll learn more about the nuts and bolts. 
+
 First, open your CMSC150 folder _in VSCode_. To do this, navigate to `File > Open Folder` and then select the appropriate folder in your file manager GUI.
 
 Next, make sure that you have a terminal open as well. Go to `Terminal > New Terminal`. You'll see that this will open a terminal were the working directory is _already_ your CMSC150 folder. Great!
 
 Now, on the sidebar, create a new file called `Hello.java`. By giving the file a `.java` extension, VSCode knows you want it to interpret the file as if it is written in Java. 
 
-It's traditional that your first program in a new language is a simple program that prints the phrase "Hello, world!" to the terminal. For right now, we are going to write and compile this program _without really understanding how the program works_. This is just to get you familair with the workflow of writing a script (a file that contains some code to run), compiling it, and running it. 
 
 Type the following into your new **file**, and then save it. 
 
