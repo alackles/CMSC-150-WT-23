@@ -10,7 +10,7 @@ The purpose of this lab is to make sure you are set up well to use your computer
 
 1. Folders + Folder Navigation
 2. Terminal + Terminal Navigation
-3. Python Installation + the Python Environment
+3. Java Installation
 4. VSCode Installation + Features
 
 # Computer Navigation
@@ -167,16 +167,12 @@ Now that you've familiarized yourself with navigating your computer, we need to 
 >
 > However, for simplicity's sake, we'll say we are "installing Java", because this is how most everyone talks about installing the interpreter for a new language.
 
-The Java website has excellent and simple guides for how to install Java on your computer no matter your operating system. 
 
-The only thing they don't do is tell you where to download the files they want you to download.
+You can find the required Java downloads [here](https://www.oracle.com/java/technologies/downloads/).
 
-Those files can be found at the [downloads page](https://www.java.com/en/download/). 
+On Windows, download the **x64 Installer**.
 
-Follow the appopriate guide below to find out which files you need to install Java on your computer:
-
-- 🖥️ [Installation for Windows](https://www.java.com/en/download/help/windows_manual_download.html)
-- 🍎 [Installation for Mac](https://www.java.com/en/download/help/mac_install.html)
+On a Mac, download the **x64 DMG Installer**.
 
 **This may take some time** depending on your computer and the fact that we have 20 people all downloading the same software in the same room off the same wireless access point. If you find yourself idling, feel free to continue exploring your computer via the terminal and practicing bash commands as linked in the above section.
 
