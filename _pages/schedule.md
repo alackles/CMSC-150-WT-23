@@ -13,7 +13,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
 | Tu 1/3 | Intro + [_Lab 1: Setup & Installation_][lab1] | [Pre-Class Survey][survey] | | 
-| W 1/4 | Algorithmic Thinking | Persuall | |
+| W 1/4 | [Algorithmic Thinking][w1-d1] | Persuall | |
 | F 1/6 | Variables and Operators + Quiz 1 | Persuall | HW1 |
 | **Week 2** | **Methods & Functions** | | |
 | M 1/9 | Input/Output | Perusall | |
@@ -69,3 +69,5 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [survey]: https://forms.gle/rDthQ7BWk4aW2gkdA
 
 [lab1]: https://alackles.github.io/CMSC-150-WT-23/labs/lab1
+
+[w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
