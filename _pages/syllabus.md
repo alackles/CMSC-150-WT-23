@@ -55,11 +55,11 @@ Here are the available tutors for the course.
 
 Here is a suggested email template. (You do not have to follow this exactly; this is just in case you aren't sure where to start or how to reach out.)
 
-> **Subj:** CMSC 140 Tutoring
+> **Subj:** CMSC 150 Tutoring
 >
 > Hi < Tutor Name >,
 >
-> My name is < Your Name >. I'm currently enrolled in CMSC 140: Intro to Programming with Python, and I am looking for a tutor, especially to go over < a particular assignment/some topic >. Do you have space for tutoring, and if so what are your available tutoring hours? 
+> My name is < Your Name >. I'm currently enrolled in CMSC 150: Intro to Computer Science and I am looking for a tutor, especially to go over < a particular assignment/some topic >. Do you have space for tutoring, and if so what are your available tutoring hours? 
 >
 > Thanks,
 > < Your Name >
