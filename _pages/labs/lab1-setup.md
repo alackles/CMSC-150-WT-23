@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-The purpose of this lab is to make sure you are set up well to use your computer to execute Python programs. There are four main components to this lab, which we will work through together. 
+The purpose of this lab is to make sure you are set up well to use your computer to execute Java programs. There are four main components to this lab, which we will work through together. 
 
 1. Folders + Folder Navigation
 2. Terminal + Terminal Navigation
