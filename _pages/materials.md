@@ -12,7 +12,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
-| TBD | TBD | TBD | TBD |
+| [Homework 1][hwk1] | 1/6 | 1/3 | TBD |
 
 # Labs
 
@@ -45,5 +45,7 @@ _TBD._
 These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
 
 _TBD._
+
+[hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2

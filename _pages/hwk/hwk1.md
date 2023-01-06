@@ -43,6 +43,22 @@ _Notice that there should **not** be a period (`.`) at the end of the sentence._
 
 ### Question 3: `Convert.java`
 
+> **Note:** To convert between compatable types, namely double and int, you can do what is called casting. It works like this:
+>
+> ```java
+> int x = 1
+> double y = (double)x
+> ```
+> In the above example, the value of y will be 1.0.
+>
+> You can also cast from double to int:
+>
+> ```java
+> double x = 1.4
+> int y = (int)x
+> ```
+> Here, the value of y will be 1.
+
 You are an accountant for a small business on Planet Glorp that needs to do some interplanetary currency exchange with Planet Murple. Glorp currency is called `glorps`, and Murple currency is called `murps`. The current exchange rate is 1 glorp = 0.7 murps. For example, 25 glorps would be 17.5 murps. 
 
 However, Murple currency does not have a concept of fractional murps. All fractional amounts are rounded down to the nearest whole number. Here are some examples:
