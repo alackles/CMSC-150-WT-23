@@ -25,6 +25,10 @@ Labs will be made available before class. Each lab will have to be turned in on 
 # Lecture Notes
 
 Lecture notes will be posted the day of class and may be edited afterwards to reflect live-coding. Lecture notes will include a link to directly download any code or scripts we wrote together in class. 
+
+| Notes | Date |   
+| [Variables and Operators][w1-d2] | 1/6 |
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
@@ -41,3 +45,5 @@ _TBD._
 These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
 
 _TBD._
+
+[w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
