@@ -39,6 +39,7 @@ You can find past friday quizzes here, along with their answer keys.
 | Quiz | Date |   
 | ------ | ------ |
 | [Quiz 1][quiz1] | 1/6 | 
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
