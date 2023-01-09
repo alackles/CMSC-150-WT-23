@@ -27,10 +27,18 @@ Labs will be made available before class. Each lab will have to be turned in on 
 Lecture notes will be posted the day of class and may be edited afterwards to reflect live-coding. Lecture notes will include a link to directly download any code or scripts we wrote together in class. 
 
 | Notes | Date |   
+| ----- | ----- |
 | [Algorithmic Thinking][w1-d1] | 1/4 |
 | [Variables and Operators][w1-d2] | 1/6 |
 | [Input/Output][w2-d1] | 1/9 | 
 
+# Past Quizzes
+
+You can find past friday quizzes here, along with their answer keys. 
+
+| Quiz | Date |   
+| ---- | ---- |
+| Quiz 1 | 1/6 | 
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 

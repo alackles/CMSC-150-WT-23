@@ -40,6 +40,7 @@ include:
   - hwk
   - lectures
   - labs
+  - quizzes
 exclude:
   - Gemfile
   - LICENSE
