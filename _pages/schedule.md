@@ -17,7 +17,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 1/6 | Variables and Operators ([notes][w1-d2]) + Quiz 1 | Persuall | [HW1][hwk1] |
 | **Week 2** | **Methods & Functions** | | |
 | M 1/9 | Input/Output ([notes][w2-d1]) | Perusall | |
-| Tu 1/10 | _Lab 2: Thinking Like a Computer_ | | |
+| Tu 1/10 | [_Lab 2: Thinking Like a Computer_][lab2] | | |
 | W 1/11 | Functions: Void | Perusall | |
 | F 1/13 | Functions: Return + Quiz 2 | Persuall + HW1 | HW2 |
 | **Week 3** | **Conditionals & Logic** | | |
@@ -69,6 +69,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [survey]: https://forms.gle/rDthQ7BWk4aW2gkdA
 
 [lab1]: https://alackles.github.io/CMSC-150-WT-23/labs/lab1
+[lab2]: https://alackles.github.io/CMSC-150-WT-23/labs/lab2
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 
