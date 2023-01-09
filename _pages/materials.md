@@ -20,7 +20,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
-| [Lab 1](https://alackles.github.io/CMSC-150-WT-23/labs/lab1) | 1/3  | _N/A_  |
+| [Lab 1][lab1] | 1/3  | _N/A_  |
 
 # Lecture Notes
 
@@ -37,8 +37,8 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 You can find past friday quizzes here, along with their answer keys. 
 
 | Quiz | Date |   
-| ---- | ---- |
-| Quiz 1 | 1/6 | 
+| ------ | ------ |
+| [Quiz 1][quiz1] | 1/6 | 
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
@@ -58,6 +58,10 @@ _TBD._
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 
+[lab1]: https://alackles.github.io/CMSC-150-WT-23/labs/lab1
+
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
 [w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1
+
+[quiz1]: https://alackles.githu.bio/CMSC-150-WT-23/quizzes/quiz1

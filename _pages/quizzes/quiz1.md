@@ -13,9 +13,11 @@ toc_icon: "cog"
 In your own words, what is an _algorithm_, and how does it differ from a _program_? (2-3 short sentences)
 
 <details><summary>Answer</summary>
-An algorithm is is a process, set of rules, or set of instructions which, when followed, produces some specific output. An algorithm <i>can be</i> and <i>is often</i> used by a computer, but this is NOT necessarily the case. 
 
-A program, as we use it in this class, is a series of commands which the computer executes. A program can contain an algorithm. 
+<p>An algorithm is is a process, set of rules, or set of instructions which, when followed, produces some specific output. An algorithm <i>can be</i> and <i>is often</i> used by a computer, but this is NOT necessarily the case.</p>
+
+<p>A program, as we use it in this class, is a series of commands which the computer executes. A program can contain an algorithm. </p>
+
 </details>
 
 ## Question 2
@@ -34,17 +36,24 @@ class Greeting {
 **A. What will this program output to the console? Write it down as you would see it displayed.**
 
 <details><summary>Answer</summary>
-The "\n" is a linebreak, consisting of an escape character and the character n to show that we mean to put in a linebreak. So the final output is:
+<p>The "\n" is a linebreak, consisting of an escape character and the character n to show that we mean to put in a linebreak. So the final output is:</p>
 
+<code><pre>
 Hello students.
 How are you?
+</pre>
+</code>
 </details>
+<br>
 
 **B. What commands would you have to input into your terminal to compile and run this program? Write them down in the order you would enter them.** (Assume you are already in the correct directory.)
 
 <details><summary>Answer</summary>
-javac Greeting.java
+<code><pre>
+javac Greeting.java 
 java Greeting
+</pre>
+</code>
 </details>
 
 ## Question 3
@@ -60,7 +69,7 @@ Circle all of the **valid** statements below.
 7.  `double z = 3.0 + 0.4;`
 
 <details><summary>Answer</summary>
-1, 2, 6, and 7 are all valid. Note that 6 is bad style, but is perfectly fine.
+<p>1, 2, 6, and 7 are all valid. Note that 6 is bad style, but is perfectly fine.</p>
 
 3 is not valid because it assigns an integer to a string.
 4 is not valid because variable names cannot start with numbers.
