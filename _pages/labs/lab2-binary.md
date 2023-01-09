@@ -91,7 +91,11 @@ These gates are pretty standardized in their appearance.
 
 These gates can be chained together into _logic circuits_. Here's a small example. 
 
+![logic circuit diagram](/CMSC-150-WT-23/assets/img/lab2-logic.png)
+
 ❓ **Q3: In your groups, determine the output of the following logic gate circuit.**
+
+![logic circuit diagram](/CMSC-150-WT-23/assets/img/lab2-logic2.png)
 
 # Part 2: Binary
 
