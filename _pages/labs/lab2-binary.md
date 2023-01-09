@@ -12,7 +12,7 @@ The purpose of this lab is to get you familiar with some of the most basic compo
 
 Throughout the lab, you will see this symbol: ❓. This is a signal to stop, work on the question with your group, and write down the answer somewhere; on your whiteboard, on paper, whatever. **The important thing is to save your answer. You will turn in your answers to these questions on Gradescope under Lab 2.** You can submit images or files as the answers, so if you want, you can just take a picture of the answers. 
 
-For **Proficiency** credit, your answers should be clear (obvious what your final answer is) and correct (unless noted as free response). 
+For **Proficiency** credit, your answers should be clear (obvious what your final answer is) and correct.
 
 For **Mastery** credit, your answers should **show your work**. That is, it should not just be an answer; you should have some written work showing intermediate steps you and/or your group mates took to get to the answer.
 
