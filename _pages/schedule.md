@@ -16,7 +16,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 1/4 | Algorithmic Thinking ([notes][w1-d1]) | Persuall | |
 | F 1/6 | Variables and Operators ([notes][w1-d2]) + Quiz 1 | Persuall | [HW1][hwk1] |
 | **Week 2** | **Methods & Functions** | | |
-| M 1/9 | Input/Output | Perusall | |
+| M 1/9 | Input/Output ([notes][w2-d1]) | Perusall | |
 | Tu 1/10 | _Lab 2: Thinking Like a Computer_ | | |
 | W 1/11 | Functions: Void | Perusall | |
 | F 1/13 | Functions: Return + Quiz 2 | Persuall + HW1 | HW2 |
@@ -74,3 +74,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
+[w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1

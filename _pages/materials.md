@@ -12,7 +12,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
-| [Homework 1][hwk1] | 1/6 | 1/3 | TBD |
+| [Homework 1][hwk1] | 1/6 | 1/13 | TBD |
 
 # Labs
 
@@ -27,7 +27,9 @@ Labs will be made available before class. Each lab will have to be turned in on 
 Lecture notes will be posted the day of class and may be edited afterwards to reflect live-coding. Lecture notes will include a link to directly download any code or scripts we wrote together in class. 
 
 | Notes | Date |   
+| [Algorithmic Thinking][w1-d1] | 1/4 |
 | [Variables and Operators][w1-d2] | 1/6 |
+| [Input/Output][w2-d1] | 1/9 | 
 
 # Guides
 
@@ -48,4 +50,6 @@ _TBD._
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 
+[w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
+[w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1
