@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-
+Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week1).
 # Variables and Operators
 
 The goal of today's class is to learn how to create new variables in Java, how to change the value of variables once created, and what kinds of operations are and are not allowed between different types.

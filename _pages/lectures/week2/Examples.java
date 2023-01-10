@@ -1,5 +1,6 @@
 class Examples {
     public static void main(String[] args) {
+        System.out.println(System.out);
         int x = 6;
         double y = 2.3;
         String z = "hello";

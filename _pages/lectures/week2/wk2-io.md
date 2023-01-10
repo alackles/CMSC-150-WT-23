@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-
+Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week2).
 # Input and Output
 
 The goal of today's class is to learn how to handle user input and create output in Java. 
