@@ -34,11 +34,11 @@ Instead, there are _logical_ operators that do have meaning.
 
 Here are some examples:
 
-True and True = True
-True and False = False
-True or False = True
-False or False = False
-not False = True
+True and True = True  
+True and False = False  
+True or False = True  
+False or False = False  
+not False = True  
 
 ## Combining Operations
 
@@ -56,7 +56,7 @@ You could then set `A = 1, B = 1, C = 0, D = 1`. Or perhaps `A = 0, B = 0, C = 0
 
 ❓ **Q1: In your groups, evaluate the following expression:**
 
-(A and B) and (not C and D) or (E and F)
+(A and B) and ((not C and D) or (E and F))
 
 Where:
 
