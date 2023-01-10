@@ -119,9 +119,9 @@ The number of bits (binary numbers) allocated for storage space is important, be
 
 ## Integers in Binary
 
-So far we've looked at integers; these are represented within a computer with bits. There are 64 bits reserved for integers, but 1 of those bits is the negative sign.
+So far we've looked at integers; these are represented within a computer with bits. There are 32 bits reserved for integers, but 1 of those bits is the negative sign.
 
-❓ **Q5: If there are 64 bits reserved for integers, with one bit reserved for negatives, what do you think the largest possible integer you can represent? You can check your work.**
+❓ **Q5: If there are 32 bits reserved for integers, with one bit reserved for negatives, what do you think the largest possible integer you can represent? You can check your work.**
 
 Note that negative integers are represented in what initially might seem like a strange way inside a computer. In Lab 5, we will return to this strange feature.
 
