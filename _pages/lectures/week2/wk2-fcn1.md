@@ -54,10 +54,6 @@ End.
 
 > Does it matter where methods are written? Or in what order? 
 
-### Variable Scope
-
-
-
 ### Syntax & Vocab
 
 > Can I call methods anything I want? 
