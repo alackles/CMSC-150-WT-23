@@ -39,6 +39,32 @@ End.
 
 ## Questions from the Reading
 
+
+### Method Definition
+
+> What does it mean to define a method vs. to invoke a method? 
+
+> What is a parameter? What is an argument? What does it mean to pass a parameter? 
+
+> How does a method know the type of a parameter?
+
+### Program Execution
+
+> What order do the commands in a program execute in? 
+
+> Does it matter where methods are written? Or in what order? 
+
+### Variable Scope
+
+
+
+### Syntax & Vocab
+
+> Can I call methods anything I want? 
+
+> Are methods and functions the same thing? 
+
+> What does it mean to return a result? 
 ## Lecture/Live-Code
 
 We've so far looked at classes with a single method called `main()`. But you can write your own methods as well. 

@@ -18,7 +18,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 2** | **Methods & Functions** | | |
 | M 1/9 | Input/Output ([notes][w2-d1]) | Perusall | |
 | Tu 1/10 | [_Lab 2: Thinking Like a Computer_][lab2] | | |
-| W 1/11 | Functions: Void | Perusall | |
+| W 1/11 | Functions: Void ([notes][w2-d2]) | Perusall | |
 | F 1/13 | Functions: Return + Quiz 2 | Persuall + HW1 | HW2 |
 | **Week 3** | **Conditionals & Logic** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
@@ -76,3 +76,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
 [w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1
+[w2-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d2

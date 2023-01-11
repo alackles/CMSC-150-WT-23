@@ -32,6 +32,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Algorithmic Thinking][w1-d1] | 1/4 |
 | [Variables and Operators][w1-d2] | 1/6 |
 | [Input/Output][w2-d1] | 1/9 | 
+| [Functions without Return][w2-d2] | 1/11 | 
 
 # Past Quizzes
 
@@ -66,5 +67,6 @@ _TBD._
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
 [w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1
+[w2-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
