@@ -1,5 +1,5 @@
 ---
-title: Homework 1 - Variables & Algorithmic Thinking
+title: Homework 2 - I/O and Methods
 permalink: /hwk/hwk2
 toc: true
 toc_label: "Table of Contents"
