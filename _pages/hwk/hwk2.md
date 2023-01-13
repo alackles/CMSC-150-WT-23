@@ -1,6 +1,6 @@
 ---
 title: Homework 1 - Variables & Algorithmic Thinking
-permalink: /hwk/hwk1
+permalink: /hwk/hwk2
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
