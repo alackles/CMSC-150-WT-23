@@ -1,6 +1,6 @@
 ---
-title: Week 2 Day 2 - void Methods
-permalink: /lectures/w2-d2
+title: Week 2 Day 2 - Methods w/ Returns
+permalink: /lectures/w2-d3
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -21,6 +21,15 @@ The goal of today's class is to extend our understanding of methods from somethi
  
 ## Questions from the Reading
 
+> Why do you ever need a method stub? What does it do?
+
+```java
+public static double distance(double x1, double y1, double x2, double y2) {
+    return 0.0; // stub
+}
+```
+
+> What is the difference between returning and printing? Doesn't a void method return something with `System.out.println()`?
 
 
 ## Lecture/Live-Code
