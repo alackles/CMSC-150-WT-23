@@ -195,7 +195,7 @@ The method `discriminant()` should take in three arguments, `a`, `b`, and `c` an
 
 The method `quadratic()` should take in three arguments, `a`, `b`, and `c`, call the `discriminant()` method somewhere in its body, and return the _positive_ root of the polynomial with those coefficients.
 
-As an example, the inputs `a=1, b=-2, c=-8` should return `2.0`. 
+As an example, the inputs `a=1, b=-2, c=-8` should return `4.0`. 
 
 Hints: 
 
