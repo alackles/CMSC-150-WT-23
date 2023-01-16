@@ -22,7 +22,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 1/13 | Functions: Return + Quiz 2 ([notes][w2-d3])| Persuall + HW1 | [HW2][hwk2] |
 | **Week 3** | **Conditionals & Logic** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
-| Tu 1/17 | _Lab 3: Testing and Scaffolding_ | | | 
+| Tu 1/17 | [_Lab 3: Thinking Like a Computer Scientist_][lab3] | | | 
 | W 1/18 | if/else & switch | Perusall | |
 | F 1/19 | Boolean logic + Quiz 3 | Persuall + HW2 | |
 | **Week 4** | **Iteration & Strings** | | |
