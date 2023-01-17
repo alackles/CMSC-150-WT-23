@@ -24,11 +24,11 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | Tu 1/17 | [_Lab 3: Thinking Like a Computer Scientist_][lab3] | | | 
 | W 1/18 | if/else & switch | Perusall | |
-| F 1/19 | Boolean logic + Quiz 3 | Persuall + HW2 | |
+| F 1/19 | while/for + Quiz 3 | Persuall + HW2 | |
 | **Week 4** | **Iteration & Strings** | | |
-| M 1/23 | while/for | Perusall | | 
+| M 1/23 | Nested loops | Perusall | | 
 | T 1/24 | _Exam 1 Review_ | | |
-| W 1/25 | Nested loops | Persuall | |
+| W 1/25 |  Recursion | Persuall | |
 | F 1/27 | **EXAM 1** | | HW3|
 | **Week 5** | **Strings & Arrays** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
