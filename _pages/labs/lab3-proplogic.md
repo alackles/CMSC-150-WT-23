@@ -14,7 +14,7 @@ The purpose of this lab is to get you familiar with some of the mathematics behi
 
 Propositional logic is part of formal mathematics. The reason we're learning about this in your intro to CS class is because a key part of computer science as a field of study will involve not just _writing_ programs, but _proving_ that your programs work, and understanding the _formal mathematics_ behind why those programs work. This is different than mathematics like calculus where you are manipulating numbers; instead, we are manipulating symbols and ideas. 
 
-These concepts are central to MATH 270 (Discrete Math), CMSC 510 (Algorithm Analysis), and CMSC 515 (Theory of Computation). You may also see some of the things we're doing today regarding logic gates pop up in CMSC 435 (Computer Architecture). So if it doesn't make perfect sense today, that's okay; this is meant to be a first taste of something that will recur throughout learning more about Computer Science. 
+These concepts are central to MATH 230 (Discrete Math), CMSC 510 (Algorithm Analysis), and CMSC 515 (Theory of Computation). You may also see some of the things we're doing today regarding logic gates pop up in CMSC 435 (Computer Architecture). So if it doesn't make perfect sense today, that's okay; this is meant to be a first taste of something that will recur throughout learning more about Computer Science. 
 
 Throughout the lab, you will see this symbol: ❓. This is a signal to stop and work on the question on your worksheet with your group. **You will turn in your answers to these questions on Gradescope under Lab 3.** You can submit images or files as the answers, so if you want, you can just take a picture of the answers.
 
