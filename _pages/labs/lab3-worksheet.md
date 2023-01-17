@@ -11,13 +11,13 @@ Group Member Names:
 
 Write, in Java, a method called `or()` that takes two booleans, x and y, and returns True or False based on the `or` operator. (Model it off the `and()` method in lab.) You can test this on your computers, but you should write it out by hand in the space below. 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### Question 2
 
 Write, in Java, a method called `not()` that takes a boolean, x, and returns the `not` of that boolean. You can test this on your computers, but you should write it out by hand in the space below. 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### Question 3
 

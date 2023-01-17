@@ -1,6 +1,6 @@
 ---
 title: Lab 3 - Thinking like a Computer Scientist
-permalink: /labs/lab3/
+3permalink: /labs/lab3
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
