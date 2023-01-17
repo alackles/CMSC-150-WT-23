@@ -6,6 +6,8 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+Find the PDF for this worksheet [here](https://github.com/alackles/CMSC-150-WT-23/blob/main/_pages/labs/lab3-worksheet.pdf).
+
 # Overview
 
 The purpose of this lab is to get you familiar with some of the mathematics behind how computers operate, and the theory upon which computer science as a discipline is built. In this case, we will be looking at **propositional logic**. 
