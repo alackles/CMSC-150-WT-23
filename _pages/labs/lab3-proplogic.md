@@ -10,6 +10,10 @@ toc_icon: "cog"
 
 The purpose of this lab is to get you familiar with some of the mathematics behind how computers operate, and the theory upon which computer science as a discipline is built. In this case, we will be looking at **propositional logic**. 
 
+Propositional logic is part of formal mathematics. The reason we're learning about this in your intro to CS class is because a key part of computer science as a field of study will involve not just _writing_ programs, but _proving_ that your programs work, and understanding the _formal mathematics_ behind why those programs work. This is different than mathematics like calculus where you are manipulating numbers; instead, we are manipulating symbols and ideas. 
+
+These concepts are central to MATH 270 (Discrete Math), CMSC 510 (Algorithm Analysis), and CMSC 515 (Theory of Computation). You may also see some of the things we're doing today regarding logic gates pop up in CMSC 435 (Computer Architecture). So if it doesn't make perfect sense today, that's okay; this is meant to be a first taste of something that will recur throughout learning more about Computer Science. 
+
 Throughout the lab, you will see this symbol: ❓. This is a signal to stop and work on the question on your worksheet with your group. **You will turn in your answers to these questions on Gradescope under Lab 3.** You can submit images or files as the answers, so if you want, you can just take a picture of the answers.
 
 ## Assessment
@@ -23,7 +27,22 @@ For **Mastery** credit, your answers should **show your work**. That is, it shou
 
 Last week, we looked at **logic gates** and **boolean operators**. As a quick refresher, boolean operators take the values TRUE and FALSE and combine them into a new boolean value. 
 
-As a refresher, remember that we had multiple ways to represent these operators and what they do. 
+This may feel pretty mathematical and theoretical. We'll watch this video for some background on why this is something we're bothering with in a computer science class.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTu3LwpF6XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Notice that talking about these operators can get a little bit messy because "and", "or", and "not" are also regular English words. 
+
+Mathematics has already come up with some notation for this.
+
+| Name | Mathematics | What it Does |
+| ---- | ----  | ---- |
+| AND | ∧ | Returns 'True' if both sides are True |
+| OR | ∨  | Returns 'True' if either side is True | 
+| NOT | ¬ | Returns opposite |
+
+
+As a refresher, remember that we had multiple ways to represent what these operators do. 
 
 ## Definition of an Operator
 
@@ -31,33 +50,59 @@ We could list out all the possible combinations one at a time:
 
 **and:**
 
-TRUE and TRUE = TRUE  
-TRUE and FALSE = FALSE  
-FALSE and TRUE = FALSE  
-FALSE and FALSE = FALSE  
+TRUE ∧ TRUE = TRUE  
+TRUE ∧ FALSE = FALSE  
+FALSE ∧ TRUE = FALSE  
+FALSE ∧ FALSE = FALSE  
 
 We could also create a table that conveys the same information as above, but is written in a more compact way and uses variables for true and false.
 
-| x | y | **x AND y** |
+| x | y | **x ∧ y** |
 | ----- | ----- | ------ |
 | T | T | **T** |
 | T | F | **F** |
 | F | T | **F** |
 | F | F | **F** | 
 
-The two options above are the _definition_ of the AND operator. We have decided that saying "x AND y" will be equal to True if both are True, and False otherwise. 
+The two options above are the _definition_ of the AND operator. We have decided that saying "x ∧ y" will be equal to True if both are True, and False otherwise.
+
+We can turn this definition into a _method definition_ in Java, too with `if` statements. We'll talk about `if` statements in more depth tomorrow, but basically they look like this:
+
+```java
+if (expression) {
+    // some code
+}
+```
+
+If the part inside the parentheses evaluates to True, then the part inside the brackets will execute. If it is False, the part inside the brackets will do nothing.
+
+So consider the following:
+
+```java
+public static boolean and(boolean x, boolean y) {
+    if (x) {
+        if (y) {
+            return True
+        }
+    }
+    return False
+}
+```
+
+So, if `x` is True, then we go inside the first set of brackets. In there, if y is True, we can return True.
+
+If either case is false, then the "return True" statement will be skipped, and we'll reach the end of the method, where we will return False. 
+
+Try this out on your own computer if you like.
+
+
+❓ Complete questions 1 and 2 on your worksheet. 
 
 ## Notation for an Operator
 
-Notice that talking about the "AND" operator can get a little bit messy because "and" is also a regular English word. We could choose some notation for how to write the operator "AND" differently from the English "and"; for example, in this paragraph, I'm using all caps for the operator. 
+This operation is common enough that in Java, this method is implemented as a symbol you can use like addition and subtraction. 
 
-Mathematics has already come up with some notation for this; in mathematics we use what looks like an upside down V. It looks like this:
-
-$$ x \land y $$
-
-This is very helpful for when we're writing mathematics by hand, but this isn't a common key on the keyboard (^ is slightly different). 
-
-So in computer science, and particularly in Java, the and operator is represented differently:
+You can get the result of x ∧ y in java as follows:
 
 ```java
 x && y
@@ -65,7 +110,7 @@ x && y
 
 The double & symbol tells Java to evaluate the things on either side of it as booleans. `True && False` will evaluate to False, just like `7 + 4` will evaluate to 11. 
 
-Here's the operators we've learned so far (a full table is at the bottom).
+Here are the other operators in Java.
 
 | Name | Mathematics | Java | What it Does |
 | ---- | ---- | ---- | ---- |
@@ -73,115 +118,53 @@ Here's the operators we've learned so far (a full table is at the bottom).
 | OR | ∨ | `\|\|` | Returns 'True' if either side is True | 
 | NOT | ¬ | `!` | Returns opposite |
 
-❓ Complete questions 1 and 2 on your worksheet. 
 
-## The IF-THEN and IFF Operators
+## The IMPLIES and IFF Operators
 
 In addition to `&&`, `||`, and `!`, there are two more mathematical logical operators that do not have a direct connection to logical operators in computer science. 
 
-We're still going to learn about them, because they are an important part of thinking rigorously about statements, and they will help provide a scaffold for the `if` statements we will write later this week. 
+We're still going to learn about them, because they are an important part of thinking rigorously about mathematical statements.  
 
 
-### IF-THEN
+### IMPLIES
 
-IF-THEN is represented by a rightward arrow in mathematics: →. It is often read as "implies".
+The "IMPLIES" operator, unlike the other operators we've seen so far, is _directional_; what comes first matters. 
 
-Unlike the operators we have learned about so far; the order matters: x → y is not the same as y → x.  However, don't get confused: just like `&&`, the combination of the two sides is what is important. 
-
-Here is the definition of →.
-
-| x | y | **x → y** |
+| x | y | **x⇒y** |
 | ----- | ----- | ------ |
 | T | T | **T** |
 | T | F | **F** |
 | F | T | **T** |
 | F | F | **T** | 
 
-This might seem kind of confusing. How can F → T be True? Let's think about it computationally using an `if` statement.
+Notice that `T ⇒ F` is the only combination that evaluates to False. This may seem confusing; how can False imply True? 
 
-```java
-if (x) {
-    // the part in between the braces is "y"
-}
-```
+There are two ways to think of it:
 
-Here's a simple example:
+One is that this is simply the definition. There is no more meaning to 'why' `F ⇒ T = T` than there is to `1 + 2 = 3`; those are just the conventions we've chosen for what `⇒` means. 
 
-```java
-if (1 == 1) {
-    System.out.println("hello");
-}
-```
+The second way is to imagine a statement like, "if it rains tomorrow, I'm going to take my umbrella with me." If it doesn't rain, you have technically fulfilled the statement regardless of whether you take your umbrella or not. That's why if the first part is false, it doesn't matter what the rest is. 
 
-Output:
-```
-hello
-```
+For now, just know that `⇒` is another logical operator you can work with, just like `∧`; it just doesn't have a direct implementation in Java. 
 
-Here, the part inside the braces will be evaluated if `x` is True. Remember though that the implies operator needs two different statements: `x` and `y`. 
-
-In this case, think of the truth value of `y` as answering the question "does the behavior of the code change based on what is inside these brackets?"
-
-Think of the truth value of `→` as answering the question "does the operation reach the end of the braces without changing anything about the code?" 
-
-So the entire _operation_ is what is either 'True' or 'False'.
-
-Now it's easier to see why `F → T` and `F → F` both evaluate to True; because if `x` is False, then nothing in the braces is evaluated, so by default, the operation will reach the end of the braces without changing anything about the code.
-
-Here's an example of `T → T` in Java. 
-
-```java
-if (2 == 2) {
-    // an empty statement; nothing would change
-}
-```
-
-Here's an example of `T → F` in Java. 
-
-```java
-if (2 == 2) {
-    x = 7;
-}
-```
-
-Here's an example of `F → T` in Java. 
-
-```java
-if (2 == 3) {
-    // empty; nothing would change
-}
-```
-
-Here's an example of `F → F` in Java. 
-
-```java
-if (2 == 3) {
-    x = 7;
-}
-```
-
-You can think of the operators like this:
-
-Mathematically, if the lefthand side is **True**, then the truth of the statement depends upon the righthand side. If the lefthand side is **False**, then the statement is automaticlaly true. 
-
-Computationally, if the part inside the parentheses is **True**, then the behavior of the code depends on what is inside the brackets If the part inside the parentheses is **False**, then the behavior of the code is _unrelated_ to whatever is inside the brackets.
-
-❓ Complete Questions 3 and 4 on your worksheet.
+❓ Complete Question 3 on your worksheet.
 
 ### IFF
 
-Finally, there is the mathematical operator "IFF", or if-and-only-if. In computer science this works basically like `==`; if both sides are true, the entire operation is true. 
+Finally, there is the mathematical operator "IFF", or if-and-only-if. If both sides are true, the entire operation is true. 
 
-| x | y | **x ⇔y** |
+| x | y | **x⇔y** |
 | ----- | ----- | ------ |
 | T | T | **T** |
 | T | F | **F** |
 | F | T | **F** |
 | F | F | **T** | 
 
+Effectively, this is checking for both sides to be the same. 
+
 Note that in mathematics, we're usually trying to show that _if_ one side is true, _then_ the other side is true. 
 
-❓ Complete Question 5 on your worksheet.
+❓ Complete Questions 4 and 5 on your worksheet.
 
 
 ## Propositional Logic
@@ -190,13 +173,10 @@ The five operators above help us construct what is called _propositional logic_;
 
 This kind of propositional logic is part of the underlying structure of your computer. It is also an important piece of mathematical understanding that will come back to haunt you later in your CS curriculum!
 
-As a class, we're going to watch the following two videos; afterwards, you and your group will write a question for the last part of your worksheet. 
+As a class, we're going to watch the following video; afterwards, you and your group will write a question for the last part of your worksheet. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sTu3LwpF6XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvJc9CZcvBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 # Notation Reference Table
@@ -208,7 +188,3 @@ Here is a reference table for some of the notation we'll talk about throughout t
 | AND | ∧ | `&&` | Returns 'True' if both sides are True |
 | OR | ∨ | `||` | Returns 'True' if either side is True | 
 | NOT | ¬ | `!` | Returns opposite |
-| IF-THEN | → | `if () {}` | See below |
-| IF AND ONLY IF (IFF) | ⇔ | `==` | See below | 
-
-IF-THEN and IFF don't have as direct connections in computer science as they do in propositional mathematical logic. For our purposes, you can think of IF-THEN as similar to an `if` statement, and `IFF` as similar to `==`, but they are _not_ the same like AND, OR, and NOT. 

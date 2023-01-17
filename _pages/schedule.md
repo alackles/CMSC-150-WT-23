@@ -70,6 +70,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [lab1]: https://alackles.github.io/CMSC-150-WT-23/labs/lab1
 [lab2]: https://alackles.github.io/CMSC-150-WT-23/labs/lab2
+[lab3]: https://alackles.github.io/CMSC-150-WT-23/labs/lab3
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 [hwk2]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk2
