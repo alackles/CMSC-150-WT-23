@@ -115,7 +115,7 @@ Here are the other operators in Java.
 | Name | Mathematics | Java | What it Does |
 | ---- | ---- | ---- | ---- |
 | AND | ∧ | `&&` | Returns 'True' if both sides are True |
-| OR | ∨ | `\|\|` | Returns 'True' if either side is True | 
+| OR | ∨ | `||` | Returns 'True' if either side is True | 
 | NOT | ¬ | `!` | Returns opposite |
 
 
