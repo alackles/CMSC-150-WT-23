@@ -82,10 +82,10 @@ So consider the following:
 public static boolean and(boolean x, boolean y) {
     if (x) {
         if (y) {
-            return True
+            return True;
         }
     }
-    return False
+    return False;
 }
 ```
 
