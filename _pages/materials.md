@@ -35,6 +35,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Variables and Operators][w1-d2] | 1/6 |
 | [Input/Output][w2-d1] | 1/9 | 
 | [Functions without Return][w2-d2] | 1/11 | 
+| [If/Else and Switch/Case][w3-d1] | 1/18 | 
 
 # Past Quizzes
 
