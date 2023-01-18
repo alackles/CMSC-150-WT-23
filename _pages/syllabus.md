@@ -142,7 +142,7 @@ The purpose of these exams is to test your _ability to apply your understanding 
 
 **Homework** and **Labs** will be turned in to **Gradescope**.
 
-**Exams** will be turned in to **Canvas**.
+**Resubmissions** and **Exams** will be turned in to **Canvas**.
 
 Your **final project** will be uploaded to your GitHub as a repository, and the link submitted to **Canvas**. We will set up your github in the first week of class.
 ### Mastery-Based Grading Scheme
@@ -246,6 +246,8 @@ Learning is a non-linear process. One of the best ways to learn something is to 
 #### Homework and Labs
 
 **For that reason, any and all homeworks and labs in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
+
+**Revisions must be turned in to their corresponding assignments on Canvas, not Gradescope.**
 
 If you are revising **within one week** of the original feedback, I will guarantee feedback within a week of your revised submission. 
 
