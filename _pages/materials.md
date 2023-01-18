@@ -76,3 +76,4 @@ _TBD._
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
+[quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
