@@ -5,7 +5,7 @@ class Quadratic {
         return b*b - 4*a*c;
     }
 
-    public static double quad1(double a, double b, double c) {
+    public static double quad(double a, double b, double c, boolean ) {
         if (discriminant(a, b, c) < 0) {
             return Double.NaN;
         } else {
