@@ -27,6 +27,13 @@ These are questions or themes compiled from Perusall to help guide our discussio
 
 > What do they mean about braces being optional sometimes? Why don't if statements end with a semicolon? 
 
+```java
+if (x % 2 == 0) 
+    System.out.println("x is even");
+else
+    System.out.println("x is odd");
+
+```
 
 
 ## Lecture/Live-Code
