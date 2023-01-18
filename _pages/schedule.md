@@ -14,12 +14,12 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 1** | **Setup & Bare Bones** | | |
 | Tu 1/3 | Intro + [_Lab 1: Setup & Installation_][lab1] | [Pre-Class Survey][survey] | | 
 | W 1/4 | Algorithmic Thinking ([notes][w1-d1]) | Persuall | |
-| F 1/6 | Variables and Operators ([notes][w1-d2]) + Quiz 1 | Persuall | [HW1][hwk1] |
+| F 1/6 | Variables and Operators ([notes][w1-d2]) + [Quiz 1][quiz1] | Persuall | [HW1][hwk1] |
 | **Week 2** | **Methods & Functions** | | |
 | M 1/9 | Input/Output ([notes][w2-d1]) | Perusall | |
 | Tu 1/10 | [_Lab 2: Thinking Like a Computer_][lab2] | | |
 | W 1/11 | Functions: Void ([notes][w2-d2]) | Perusall | |
-| F 1/13 | Functions: Return + Quiz 2 ([notes][w2-d3])| Persuall + HW1 | [HW2][hwk2] |
+| F 1/13 | Functions: Return + [Quiz 2][quiz2] ([notes][w2-d3])| Persuall + HW1 | [HW2][hwk2] |
 | **Week 3** | **Conditionals & Logic** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | Tu 1/17 | [_Lab 3: Thinking Like a Computer Scientist_][lab3] | | | 
@@ -81,3 +81,6 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w2-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d2
 [w2-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d3
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
+
+[quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
+[quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
