@@ -29,7 +29,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/23 | Nested loops | Perusall | | 
 | T 1/24 | _Exam 1 Review_ | | |
 | W 1/25 |  Recursion (preview) | | |
-| F 1/27 | **EXAM 1** | | HW3|
+| F 1/27 | **EXAM 1** ([info][exam1-info]) | | HW3|
 | **Week 5** | **Strings & Arrays** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
 | Tu 1/31 | _Lab 4: The Collatz Conjecture_ | | |
@@ -44,7 +44,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 2/13 | Mutable Objects | Perusall | |
 | Tu 2/14 | _Exam 2 Review_ | | |
 | W 2/15 | Immutable Objects | Perusall | |
-| F 2/17 | **EXAM 2** ([info][exam1-info]) | |
+| F 2/17 | **EXAM 2**  | |
 | **Week 8** | **Final Project & Advanced Classes** | | |
 | M 2/20 | Final Project Discussion | Final Project Proposal | | 
 | Tu 2/21 | _NO LAB: Final Project Proposal Meetings_ |  | |
@@ -86,4 +86,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
 
-[exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exams
+[exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam
