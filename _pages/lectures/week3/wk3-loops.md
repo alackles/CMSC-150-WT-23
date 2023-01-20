@@ -1,6 +1,6 @@
 ---
 title: Week 3 Day 2 - Loops
-permalink: /lectures/w3-d1
+permalink: /lectures/w3-d2
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
