@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-# Exam Overview
+# Exam 1 Overview
 
 Your exam will consist of a single challenging problem that will put together all of the material you have learned so far, as well as test your ability to synthesize that material to approach a problem you have never seen before. 
 

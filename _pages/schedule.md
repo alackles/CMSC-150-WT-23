@@ -44,7 +44,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 2/13 | Mutable Objects | Perusall | |
 | Tu 2/14 | _Exam 2 Review_ | | |
 | W 2/15 | Immutable Objects | Perusall | |
-| F 2/17 | **EXAM 2** | |
+| F 2/17 | **EXAM 2** ([info][exam1-info]) | |
 | **Week 8** | **Final Project & Advanced Classes** | | |
 | M 2/20 | Final Project Discussion | Final Project Proposal | | 
 | Tu 2/21 | _NO LAB: Final Project Proposal Meetings_ |  | |
