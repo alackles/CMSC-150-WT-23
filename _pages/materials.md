@@ -36,6 +36,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Input/Output][w2-d1] | 1/9 | 
 | [Functions without Return][w2-d2] | 1/11 | 
 | [If/Else and Switch/Case][w3-d1] | 1/18 | 
+| [Loops][w3-d2] | 1/20 | 
 
 # Past Quizzes
 
@@ -44,6 +45,7 @@ You can find past friday quizzes here, along with their answer keys.
 | Quiz | Date |   
 | ------ | ------ |
 | [Quiz 1][quiz1] | 1/6 | 
+| [Quiz 2][quiz2] | 1/13 | 
 
 # Guides
 
@@ -74,6 +76,7 @@ _TBD._
 [w2-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d1
 [w2-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d2
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
+[w3-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2

@@ -24,7 +24,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | Tu 1/17 | [_Lab 3: Thinking Like a Computer Scientist_][lab3] | | | 
 | W 1/18 | if/else & switch ([notes][w3-d1]) | Perusall | |
-| F 1/19 | while/for + Quiz 3 | Persuall + HW2 | |
+| F 1/19 | while/for ([notes][w3-d2]) + Quiz 3 | Persuall + HW2 | |
 | **Week 4** | **Iteration & Strings** | | |
 | M 1/23 | Nested loops | Perusall | | 
 | T 1/24 | _Exam 1 Review_ | | |
@@ -81,6 +81,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w2-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d2
 [w2-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w2-d3
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
+[w3-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
