@@ -85,3 +85,5 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
+
+[exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exams
