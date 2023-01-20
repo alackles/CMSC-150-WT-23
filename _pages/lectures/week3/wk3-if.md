@@ -1,5 +1,5 @@
 ---
-title: Week 2 Day 1 - Input/Output
+title: Week 3 Day 1 - If/Else & Switch
 permalink: /lectures/w3-d1
 toc: true
 toc_label: "Table of Contents"
