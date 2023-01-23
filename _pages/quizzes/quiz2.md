@@ -1,5 +1,5 @@
 ---
-title: Quiz 1
+title: Quiz 2
 permalink: /quizzes/quiz2
 toc: true
 toc_label: "Table of Contents"

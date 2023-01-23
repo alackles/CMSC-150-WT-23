@@ -47,7 +47,7 @@ You can find past friday quizzes here, along with their answer keys.
 | ------ | ------ |
 | [Quiz 1][quiz1] | 1/6 | 
 | [Quiz 2][quiz2] | 1/13 | 
-| [Quiz 2][quiz3] | 1/20 | 
+| [Quiz 3][quiz3] | 1/20 | 
 
 # Guides
 

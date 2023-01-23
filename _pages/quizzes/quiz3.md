@@ -1,6 +1,6 @@
 ---
-title: Quiz 1
-permalink: /quizzes/quiz2
+title: Quiz 3
+permalink: /quizzes/quiz3
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
