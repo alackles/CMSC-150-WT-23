@@ -8,7 +8,7 @@ toc_icon: "cog"
 
 Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week3).
 
-# If/Else Statements
+# Loops
 
 The goal of today's class is to learn how to use loops -- a fundamental part of creating complex programs that are more powerful than the ones we have created so far. Having loops allows us to do the same thing repeatedly to multiple pieces of data or information and to change or update our code systematically without needing new inputs.
 
@@ -31,7 +31,7 @@ These are questions or themes compiled from Perusall to help guide our discussio
 While loops look a lot like if statements. 
 
 ```java
-i = 0
+int i = 0;
 if (i <5 ) {
     System.out.println("hi");
 }
@@ -39,7 +39,7 @@ System.out.println("End of if.");
 ```
 
 ```java
-i = 0
+int i = 0;
 while (i <5 ) {
     System.out.println("hi");
 }
@@ -51,7 +51,7 @@ The difference is that a while loop will continue executing as long as the state
 So to stop the while loop from infinitely executing, something has to happen inside the loop that might, possibly, change the statement to be false. 
 
 ```java
-i = 0
+int i = 0;
 while (i <5 ) {
     System.out.println("hi");
     i++;
@@ -63,9 +63,9 @@ Now, it prints out as long as the statement is true; once it becomes false, the 
 Remember that you don't have to print inside a loop. You can do anything.
 
 ```java
-my_num = 0
+int my_num = 0;
 while (i < 10) {
-    my_num = my_num - i*2
+    my_num = my_num - i*2;
 }
 ```
 
@@ -80,7 +80,7 @@ while (n > 1) {
     if (n % 2 == 0) {
         n = n / 2;
     } else {
-        n = (n * 3) + 1
+        n = (n * 3) + 1;
     }
 }
 System.out.println(1);
@@ -93,7 +93,7 @@ This is nice, because we don't know when the loop will end. We don't know how ma
 Fortunately, that pattern is so common, as your book points out, that we do have a somewhat simpler way to do things.
 
 ```java
-i = 0
+int i = 0;
 while (i <5 ) {
     System.out.println("hi");
     i++;
@@ -116,7 +116,7 @@ Notice that all the same elements are still there, just moved around. In particu
 A lot of the loops we write will look something like this:
 
 ```java
-sum = 0 // initialize some variable outside the loop
+int sum = 0 // initialize some variable outside the loop
 for (int i = 0; i < 10; i ++) { // loop over a range
     sum += i; // add to the initialized variable inside the loop
 }
