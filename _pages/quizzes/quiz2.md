@@ -20,25 +20,25 @@ For each of the following, check True (T) or False (F).
 
 | Question | T | F |
 | ----- | ---- | ---- |
-| The variable `in` is of type `Scanner` | | |
-| The `in` in `System.in` on the righthand side is the same entity as the variable `in` on the lefthand side. | | |
-| `new` tells Java to import the Scanner class | | |
-| `System.in` is a method in `Scanner` | | |
+| The variable 'in' is of type 'Scanner' | | |
+| The 'in' in 'System.in' on the righthand side is the same entity as the variable 'in' on the lefthand side. | | |
+| 'new' tells Java to import the Scanner class | | |
+| 'System.in' is a method in 'Scanner' | | |
 
 <details><summary>Answer</summary>
 
 | Question | T | F |
 | ----- | ---- | ---- |
-| The variable `in` is of type `Scanner` | x | |
-| The `in` in `System.in` on the righthand side is the same entity as the variable `in` on the lefthand side. | | x |
-| `new` tells Java to import the Scanner class | | x |
-| `System.in` is a method in `Scanner` | | x |
+| The variable 'in' is of type 'Scanner' | x | |
+| The 'in' in 'System.in' on the righthand side is the same entity as the variable 'in' on the lefthand side. | | x |
+| 'new' tells Java to import the Scanner class | | x |
+| 'System.in' is a method in 'Scanner' | | x |
 
-`in` on the lefthand side is a variable of type `Scanner`. `in` as part of `System.in` on the righthand side is a method in System.   
+'in' on the lefthand side is a variable of type 'Scanner'. 'in' as part of 'System.in' on the righthand side is a method in System.   
 
-`new` tells Java to _create a new instance_ of the Scanner class. The statement `import java.util.Scanner;` at the top of the file would tell Java to _import_ the Scanner class.  
+'new' tells Java to _create a new instance_ of the Scanner class. The statement 'import java.util.Scanner;' at the top of the file would tell Java to _import_ the Scanner class.  
 
-`System.in` is a method call to the `in` method in `System`. It is an argument passed to `Scanner()`. It is not a method in Scanner.  
+'System.in' is a method call to the 'in' method in 'System'. It is an argument passed to 'Scanner()'. It is not a method in Scanner.  
 
 </details>
 
@@ -60,21 +60,21 @@ class Question {
 }
 ```
 
-**A:** What are the _parameters_ of the `showAdd()` method?
+**A:** What are the _parameters_ of the 'showAdd()' method?
 
 <details><summary>Answer</summary>
 
-`int a` and `double b`
+'int a' and 'double b'
 
 </details>
 
-**B:** What are the _arguments_ passed to the `showAdd()` method?
+**B:** What are the _arguments_ passed to the 'showAdd()' method?
 
 <details><summary>Answer</summary>
 
-`i (which is 5)` and `j (which is 0.4)`
+i (which is 5) and j (which is 0.4)
 
-There are many ways to answer this part of the question; the important thing is to understand that `i` and `j` are the arguments being passed, and that `int a` and `double b` are the parameters being assigned. 
+There are many ways to answer this part of the question; the important thing is to understand that i and j are the arguments being passed, and that 'int a' and 'double b' are the parameters being assigned. 
 
 </details>
 
