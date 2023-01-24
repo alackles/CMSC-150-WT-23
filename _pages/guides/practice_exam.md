@@ -51,9 +51,9 @@ Turn this problem in on Gradescope under Practice Exam.
 
 ### Proficiency
 
-- 🔲 Program produces the correct output but is missing one of the other mastery requirements, **OR**
-- 🔲 Program does not produce the correct output or is not complete, but you write up a short (3-4 sentence) explanation of where you got stuck and include a sample output for your code vs. what it should be outputting, **OR**
-- 🔲 Program does not produce the correct output or is not complete, but you give a plain-English explanation of the algorithm you would write but cannot figure out how to write in Java
+- [ ] Program produces the correct output but is missing one of the other mastery requirements, **OR**
+- [ ] Program does not produce the correct output or is not complete, but you write up a short (3-4 sentence) explanation of where you got stuck and include a sample output for your code vs. what it should be outputting, **OR**
+- [ ] Program does not produce the correct output or is not complete, but you give a plain-English explanation of the algorithm you would write but cannot figure out how to write in Java
 
 
 ## Optional Extension
