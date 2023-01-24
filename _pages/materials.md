@@ -58,8 +58,11 @@ Guides to installation practices or supplementary materials will be listed here.
 Here are resources  for additional practice, each with solutions. These are available if you want to try them; there's no need to submit them.
 ## Basic Practice Problems
 
-_TBD._
-
+- [CodingBat](https://codingbat.com/java)
+  - Warmup-1
+  - Logic-1
+- [w3resource Basics](https://www.w3resource.com/java-exercises/basic/index.php)
+- [w3resource Data Types](https://www.w3resource.com/java-exercises/datatypes/index.php)
 ## Challenge Problems
 
 These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
