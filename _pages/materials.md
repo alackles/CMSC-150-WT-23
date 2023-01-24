@@ -63,6 +63,7 @@ Here are resources  for additional practice, each with solutions. These are avai
   - Logic-1
 - [w3resource Basics](https://www.w3resource.com/java-exercises/basic/index.php)
 - [w3resource Data Types](https://www.w3resource.com/java-exercises/datatypes/index.php)
+
 ## Challenge Problems
 
 These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
