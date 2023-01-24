@@ -27,7 +27,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 1/19 | while/for ([notes][w3-d2]) + [Quiz 3][quiz3] | Persuall + HW2 | |
 | **Week 4** | **Iteration & Strings** | | |
 | M 1/23 | Nested loops ([notes][w4-d1]) | Perusall | | 
-| T 1/24 | _Exam 1 Review_ | | |
+| T 1/24 | [_Exam 1 Review_][exam1-prac] | | |
 | W 1/25 |  Recursion (preview) | | |
 | F 1/27 | **EXAM 1** ([info][exam1-info]) | | HW3|
 | **Week 5** | **Strings & Arrays** | | |
@@ -89,3 +89,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [quiz3]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz3
 
 [exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam
+[exam1-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1-prac/
