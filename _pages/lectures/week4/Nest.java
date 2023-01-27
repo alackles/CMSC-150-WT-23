@@ -22,18 +22,14 @@ class Nest {
             for (int y = 1; y <= x; y++ ) {
                 System.out.printf("%4d", x*y);
             }
-            System.out.println();
+        System.out.println();
         }
     }
 
-    public static void main(String[] args) {
-        times();
-        outerLoop();
-        dependentLoop();
-    }
+ 
 
     public static void innerLoop(int x) {
-        for (int y = 1; y <= 10; y ++) {
+        for (int y = 1; y <= x; y ++) {
             System.out.printf("%4d", x*y);
         }
     }
@@ -43,5 +39,8 @@ class Nest {
             innerLoop(x);
             System.out.println();
         }
+    }
+    public static void main(String[] args) {
+        outerLoop();
     }
 }

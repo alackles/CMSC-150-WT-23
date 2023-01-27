@@ -29,7 +29,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/23 | Nested loops ([notes][w4-d1]) | Perusall | | 
 | T 1/24 | [_Exam 1 Review_][exam1-prac] | | |
 | W 1/25 |  Recursion (preview) | | |
-| F 1/27 | **EXAM 1** ([info][exam1-info]) | | HW3|
+| F 1/27 | **EXAM 1** ([info][exam1-info]) | | [HW3][hwk3] |
 | **Week 5** | **Strings & Arrays** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
 | Tu 1/31 | _Lab 4: The Collatz Conjecture_ | | |
@@ -74,6 +74,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 [hwk2]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk2
+[hwk3]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk3
 
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
