@@ -1,6 +1,6 @@
 ---
 title: Week 4 Day 1 - Nested Loops
-permalink: /lectures/w5-d1
+permalink: /lectures/w4-d1
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
