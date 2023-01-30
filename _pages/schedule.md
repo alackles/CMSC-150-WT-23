@@ -31,7 +31,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 1/25 |  Recursion (preview) | | |
 | F 1/27 | **EXAM 1** ([info][exam1-info]) | | [HW3][hwk3] |
 | **Week 5** | **Strings & Arrays** | | |
-| M 1/30 | Strings ([notes][w5-d1])| Perusall | Middle-of-Term Eval|
+| M 1/30 | Strings ([notes][w5-d1])| Perusall | [Middle-of-Term Eval][mid-eval] |
 | Tu 1/31 | _Lab 4: TBD_ | | |
 | W 2/1 | Arrays | Perusall |  | 
 | F 2/3 | Other Data Structures + Quiz 4 | Persuall + HW3 | HW4 |
@@ -92,3 +92,5 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam
 [exam1-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1-prac/
+
+[mid-eval]: https://forms.gle/zoquh6tUMUbr8hKZ8

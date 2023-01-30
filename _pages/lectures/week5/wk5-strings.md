@@ -8,7 +8,7 @@ toc_icon: "cog"
 
 Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week5).
 
-# Nested Loops
+# Strings
 
 The goal of today's class is to start working with iteration _over_ some objects: in this case, iteration over strings. The other goal is to get used to working with strings themselves.
 
