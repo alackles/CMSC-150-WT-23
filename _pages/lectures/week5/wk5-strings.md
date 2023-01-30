@@ -1,5 +1,5 @@
 ---
-title: Week 4 Day 1 - Nested Loops
+title: Week 5 Day 1 - Strings
 permalink: /lectures/w5-d1
 toc: true
 toc_label: "Table of Contents"
