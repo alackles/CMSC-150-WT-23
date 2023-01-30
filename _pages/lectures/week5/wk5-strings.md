@@ -20,12 +20,14 @@ The goal of today's class is to start working with iteration _over_ some objects
 
 Create the following pattern using nested loops:
 
+```
 *
 * - 
 * - *
 * - * -
 * - * - *
 * - * - * -
+```
 
 # Lecture/Live-Code
 
