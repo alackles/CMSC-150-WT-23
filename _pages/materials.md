@@ -39,6 +39,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [If/Else and Switch/Case][w3-d1] | 1/18 | 
 | [Loops][w3-d2] | 1/20 | 
 | [Nested Loops][w4-d1] | 1/23 | 
+| [Strings][w5-d1] | 1/23 | 
 
 # Past Quizzes
 
@@ -86,6 +87,7 @@ _TBD._
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
 [w3-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d2
 [w4-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w4-d1
+[w5-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2

@@ -31,25 +31,25 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 1/25 |  Recursion (preview) | | |
 | F 1/27 | **EXAM 1** ([info][exam1-info]) | | [HW3][hwk3] |
 | **Week 5** | **Strings & Arrays** | | |
-| M 1/30 | Strings | Perusall | Middle-of-Term Eval|
-| Tu 1/31 | _Lab 4: The Collatz Conjecture_ | | |
+| M 1/30 | Strings ([notes][w5-d1])| Perusall | Middle-of-Term Eval|
+| Tu 1/31 | _Lab 4: TBD_ | | |
 | W 2/1 | Arrays | Perusall |  | 
 | F 2/3 | Other Data Structures + Quiz 4 | Persuall + HW3 | HW4 |
-| **Week 6** | **Classes: Basics** | | |
-| M 2/6 | Classes: Constructors & Accessors| Perusall | |
+| **Week 6** | **Objects** | | |
+| M 2/6 | Immutable Objects | Perusall | |
 | Tu 2/7 | _Lab 5: Designing a Database_ | | |
-| W 2/8 | Classes: Mutators & Overrides + Quiz 5 | Perusall + HW4 | | 
+| W 2/8 | Mutable Objects + Quiz 5 | Perusall + HW4 | | 
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
-| **Week 7** | **Objects** | | |
-| M 2/13 | Mutable Objects | Perusall | |
-| Tu 2/14 | _Exam 2 Review_ | | |
-| W 2/15 | Immutable Objects | Perusall | |
-| F 2/17 | **EXAM 2**  | |
+| **Week 7** | **Classes: Basics** | | |
+| M 2/13 | Classes: Constructors & Accessors | Perusall | |
+| Tu 2/14 | _NO LAB: Final Project Proposal Meetings_ | | |
+| W 2/15 | Classes: Mutators & Overrides | Perusall | |
+| F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Final Project & Advanced Classes** | | |
-| M 2/20 | Final Project Discussion | Final Project Proposal | | 
-| Tu 2/21 | _NO LAB: Final Project Proposal Meetings_ |  | |
-| W 2/22 | Arrays of Objects | Perusall | |
-| F 2/24 | Inheritance + Quiz 6 | Perusall | |
+| M 2/20 | Arrays of Objects | FInal Project Proposal | | 
+| Tu 2/21 | _Exam 2 Review_ |  | |
+| W 2/22 | Objects of Arrays | Perusall | |
+| F 2/24 | **EXAM 2** | Perusall | |
 | **Week 9** | **Writing Good Code** | | | 
 | M 2/27 | Documentation & Error handling | Final Project Draft | Final Project Peer Comments |
 | Tu 2/28 | _Lab 6: Debug Challenge_ | | |
@@ -84,6 +84,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w3-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d1
 [w3-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d2
 [w4-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w4-d1
+[w5-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
