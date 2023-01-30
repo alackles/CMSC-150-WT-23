@@ -70,6 +70,8 @@ Required Output:
 * * *
 ```
 
+**Note:** The autograder expects that each line of asterisks has a space at the end (but not the line with the dash). This is because the most natural way to solve the problem will include a space at the end of the asterisk lines. If you are having trouble with getting the autograder to accept your solution, let me know so I can take a look at your code.
+
 ### Q2: `PrettyPrintGen.java`
 
 Alter your program from question 1 so that you have a **single** method which takes the number of rows and columns to print as arguments to the method. 
@@ -90,6 +92,8 @@ Example Input/Output:
 * *
 * *
 ```
+
+**Note:** The autograder expects that each line of asterisks has a space at the end (but not the line with the dash). This is because the most natural way to solve the problem will include a space at the end of the asterisk lines. If you are having trouble with getting the autograder to accept your solution, let me know so I can take a look at your code.
 
 ### Q3: `ProductSum.java`
 
