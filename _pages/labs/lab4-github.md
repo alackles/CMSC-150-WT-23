@@ -66,7 +66,7 @@ Next we will make changes to the repository. Note: most git commands require you
 
 If you'd like a visual representation of what is happening here, here is a diagram of what these commands do and where they move work to be saved.
 
-![git lifecycle](https://github.com/alackles/CMSC-150-WT-23/tree/main/assets/img/git-lifecycle.png)
+![git lifecycle](https://github.com/alackles/CMSC-150-WT-23/blob/main/assets/img/git-lifecycle.png)
 
 
 ## Adding Code to the Repo
