@@ -183,7 +183,7 @@ Below is an outline of which assessments match to which learning objectives. Don
 - Exam 2
 
 **L2: Debugging** 
-- HW 3
+- HW 4
 - Lab 6: Debug Challenge
 - Exam 1 
 - Exam 2
@@ -195,12 +195,11 @@ Below is an outline of which assessments match to which learning objectives. Don
 - Lab 5
 
 **L4: Code Review** 
- - HW 2
+ - Lab 5
  - HW 4
  - Final Project Peer Review
 
 **L5: Collaboration** 
-- Lab 1
 - Lab 4
 - Final Project Draft
 - Final Project Peer Review
