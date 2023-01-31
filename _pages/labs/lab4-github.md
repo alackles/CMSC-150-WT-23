@@ -64,6 +64,10 @@ Next we will make changes to the repository. Note: most git commands require you
 8. If you refresh the repo page on GitHub, you should now see the changes you made to the README file.
 8. Run `git fetch` to have git sync (download) any commits that have been made on the remote (Github) repository.
 
+If you'd like a visual representation of what is happening here, here is a diagram of what these commands do and where they move work to be saved.
+
+![git lifecycle](https://github.com/alackles/CMSC-150-WT-23/tree/main/assets/img/git-lifecycle.png)
+
 
 ## Adding Code to the Repo
 This next part of the lab will involve you editing code in your repository.
