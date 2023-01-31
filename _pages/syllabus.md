@@ -192,7 +192,6 @@ Below is an outline of which assessments match to which learning objectives. Don
 - All Homework (HW1-HW4)
 - Lab 2
 - Lab 3
-- Lab 4
 - Lab 5
 
 **L4: Code Review** 
@@ -202,6 +201,7 @@ Below is an outline of which assessments match to which learning objectives. Don
 
 **L5: Collaboration** 
 - Lab 1
+- Lab 4
 - Final Project Draft
 - Final Project Peer Review
 
