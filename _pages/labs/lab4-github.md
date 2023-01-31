@@ -1,6 +1,6 @@
 ---
 title: Lab 4 - Version Control with git and GitHub
-permalink: /labs/lab3/
+permalink: /labs/lab4/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

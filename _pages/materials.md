@@ -25,6 +25,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | [Lab 1][lab1] | 1/3  | _N/A_  |
 | [Lab 2][lab2] | 1/10  | TBD  |
 | [Lab 3][lab3] | 1/17  | TBD  |
+| [Lab 4][lab4] | 1/31  | TBD  |
 
 # Lecture Notes
 
@@ -79,6 +80,7 @@ _TBD._
 [lab1]: https://alackles.github.io/CMSC-150-WT-23/labs/lab1
 [lab2]: https://alackles.github.io/CMSC-150-WT-23/labs/lab2
 [lab3]: https://alackles.github.io/CMSC-150-WT-23/labs/lab3
+[lab4]: https://alackles.github.io/CMSC-150-WT-23/labs/lab4
 
 [w1-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d1
 [w1-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w1-d2
