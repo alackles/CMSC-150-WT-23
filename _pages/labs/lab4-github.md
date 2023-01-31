@@ -83,6 +83,8 @@ Once you have improved your solution, you can add, commit, and push those change
 
 ⭐ Show me your code and the git log in your local repository.
 
+**To turn in the lab, submit a link to your github account on Canvas under Lab 4.**
+
 ## Git Problems?
 `git` is a complicated program with many working parts. 
 Without teaching you quite a bit more about how it works, it can be difficult to know how to fix certain problems.
