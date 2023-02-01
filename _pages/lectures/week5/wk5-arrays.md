@@ -38,7 +38,7 @@ Then, take in a string from the user and check it with `isAbecedarian`. Remember
 
 > Can an array have multiple data types?
 
-> Why use `int[] a = new a[4]` instead of `int[] a = {1, 2, 4, 5}`?
+> Why use `int[] a = new int[4]` instead of `int[] a = {1, 2, 4, 5}`?
 
 > How are references different from any other kind of variable? 
 
@@ -71,17 +71,17 @@ String[] names = {"Acacia", "Kurt", "Joe"};
 If you wanted to create an empty array, you do have to tell it what size you want the array to be. 
 
 ```java
-int[] j = new j[20];
+int[] j = new int[20];
 ```
 
-However, you can do either of these on separate lines, just like before
+However, you can only do the `new` construction on separate lines, not the initialization. This is because the array needs to be told at some point how long it should be, and it just won't accept doing that on separate lines. 
 
 ```java
-String[] words;
-words = {"Hello", "Goodbye"};
+//String[] words; // this won't work!!
+//words = {"Hello", "Goodbye"};
 
 String[] courses;
-courses = new courses[10];
+courses = new String[10];
 ```
 
 ## References
@@ -100,7 +100,7 @@ Individual elements of arrays are accessed with square brackets.
 
 ```java
 int[] a = {2, 4, 7};
-num = a[1];
+int num = a[1];
 System.out.println(num); // will print 4
 ```
 
