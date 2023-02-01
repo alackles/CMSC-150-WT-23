@@ -33,7 +33,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 5** | **Strings & Arrays** | | |
 | M 1/30 | Strings ([notes][w5-d1])| Perusall | [Middle-of-Term Eval][mid-eval] |
 | Tu 1/31 | [_Lab 4: Git and GitHub_][lab4] | | |
-| W 2/1 | Arrays | Perusall |  | 
+| W 2/1 | Arrays ([notes][w6-d2]) | Perusall |  | 
 | F 2/3 | Other Data Structures + Quiz 4 | Persuall + HW3 | HW4 |
 | **Week 6** | **Objects** | | |
 | M 2/6 | Immutable Objects | Perusall | |
@@ -86,6 +86,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w3-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w3-d2
 [w4-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w4-d1
 [w5-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d1
+[w5-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
