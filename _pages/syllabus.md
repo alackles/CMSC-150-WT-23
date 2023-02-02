@@ -132,20 +132,13 @@ You will have three different kinds of outside-of-class assessments:
 
 ### Exams
 
-There will be two exams in the course; one in Week 4 and one in Week 7. 
+There will be two exams in the course; one in Week 4 and one in Week 8. 
 
 These are proctored, individual, in-person, computer-based exams. You will have access to your code editor of choice, and the documentation for the Java language.
 
 The purpose of these exams is to test your _ability to apply your understanding of Java to unfamiliar scenarios_. Each exam will consist of a difficult problem which you will need to break down into component pieces to solve. More information about the exams will be available a week before they are scheduled.
 
-### How to Turn In Work
-
-**Homework** and **Labs** will be turned in to **Gradescope**.
-
-**Resubmissions** and **Exams** will be turned in to **Canvas**.
-
-Your **final project** will be uploaded to your GitHub as a repository, and the link submitted to **Canvas**. We will set up your github in the first week of class.
-### Mastery-Based Grading Scheme
+## Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
 
@@ -176,41 +169,10 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask).
 
-**L1: Algorithmic Thinking & Programming Basics**
-- All Homework (HW1-HW4)
-- All Labs (LAB1-LAB6)
-- Exam 1
-- Exam 2
+![guide to grades](/CMSC-150-WT-23/assets/img/grade-guide.png)
 
-**L2: Debugging** 
-- HW 4
-- Lab 6: Debug Challenge
-- Exam 1 
-- Exam 2
+You can also keep your own tally; [here is a link to a google drive version of this guide](https://docs.google.com/document/d/1VyTHJk3z9zEM8Vb_dEJgKVVtndMDHM6aUMpl-GTp7Ak/edit?usp=sharing). You can make your own editable version by going to `File > Make a Copy` and selecting the folder you want to save it to. You can also save it to your computer as-is by going to `File > Download`.
 
-**L3: Style** 
-- All Homework (HW1-HW4)
-- Lab 2
-- Lab 3
-- Lab 5
-
-**L4: Code Review** 
- - Lab 5
- - HW 4
- - Final Project Peer Review
-
-**L5: Collaboration** 
-- Lab 4
-- Final Project Draft
-- Final Project Peer Review
-
-**L6: Reading**
-
-For mastery credit, you must **complete the Perusall reading before class** at least 85% of the time. For proficiency credit, you must complete it at least 70% of the time. Fewer than this will earn an Incomplete on this objective.
-
-**L7: Reflection**
-
-For mastery credit you must complete revisions of **any three assessments**. These assessments can even be ones you already earned mastery credit for the first time around. (Work not turned in/marked "Incomplete" does not count.) There's always something to tweak or try differently next time! 2/3 will earn a Proficiency. Lower than that earns an Incomplete on this objective.
 
 ### Gradebook
 
@@ -238,9 +200,17 @@ _Example_: You have demonstrated Mastery of L1-L4 and L7, but earned proficiency
 
 I will post your final grades without the final project modifier to Canvas by the end of Week 9 so that you can 1. decide whether you want to try to earn any additional mastery points and 2. let me know of any possible discrepancies.
 
-### Revisions
+## Assignments and Revisions
 
-Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. 
+### How to Turn In Work
+
+**Homework** and **Labs** will be turned in to **Gradescope**.
+
+**Resubmissions** and **Exams** will be turned in to **Canvas**.
+
+Your **final project** will be uploaded to your GitHub as a repository, and the link submitted to **Canvas**. We will set up your github in the first week of class.
+
+### Revisions
 
 #### Homework and Labs
 
@@ -258,7 +228,9 @@ _Example 2:_ Lab 2 takes place on September 22nd. You receive your feedback and 
 
 #### Exams
 
-One of your two exams may be retaken during the scheduled finals period to give you another opportunity for mastery credit. If you wish to do this, you must let me know **in advance**. 
+You may optionally take a final exam as one final chance to earn mastery. You have the option to let this replace **one** or **both** of your midterm exam grades. You must choose before you take the exam whether you want it to replace one or both. 
+
+If you wish to do this, you must let me know **in advance**. 
 
 ### Late Work & Extensions
 
