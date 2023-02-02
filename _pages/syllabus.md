@@ -183,8 +183,8 @@ This will translate to the gradebook as follows:
 | **A** | Demonstrate mastery (**M**) for all 7 learning objectives.
 | **B** | Demonstrate mastery (**M**) for 4-6 learning objectives and proficiency (**P**) in remaining objectives. 
 | **C** | Demonstrate proficiency (**P**) or better in all learning objectives. 
-| **D** | Demonstrate proficiency (**P**) in 4-6 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
-| **F** | Demonstrates proficiency in fewer than 4 learning objectives OR is not at least proficient in **L1: Basics**.
+| **D** | Demonstrate proficiency (**P**) in 4-6 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Novice (**N**) of **L1: Basics**.
+| **F** | Demonstrates proficiency in fewer than 4 learning objectives OR is not at least novice in **L1: Basics**.
 
 Your final project grade is a **modifier** on these grades. 
 
