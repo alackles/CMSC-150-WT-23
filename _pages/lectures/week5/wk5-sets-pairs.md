@@ -40,13 +40,13 @@ the array's corresponding _set_ would contain only the elements (2, 4, 5).
 In Java, to create such a set, you would have to do the following:
 
 ```java
-Set<int> arrSet = new HashSet<int>(Arrays.asList(arr));
+Set<Integer> arrSet = new HashSet<Integer>(Arrays.asList(arr));
 ```
 
 You can see that this is a bit wordy and not very intuitive, so usually what we do is create an empty set and add elements as needed.
 
 ```java
-Set<int> mySet = new HashSet<int>();
+Set<Integer> mySet = new HashSet<Integer>();
 ```
 
 Now this looks more like what we've been doing before, except that the type is in angled brackets.
@@ -74,7 +74,7 @@ Therefore, we could create a set and find out whether there are any duplicate el
 
 ```java
 int[] nums = {4, 2, 2, 2, 5, 6, 4};
-Set<int> numSet = new HashSet<int>();
+Set<Integer> numSet = new HashSet<Integer>();
 for (int i = 0; i < nums.length; i++) {
     if (numSet.add(nums[i] == false) {
         System.out.println("Duplicate:" + nums[i]);
@@ -90,7 +90,7 @@ The above set "under the hood" includes some complicated mapping which makes it 
 If you want a set that is sorted, either numerically or alphabetically, you can use the alternative construction `SortedSet`, which works the same way except in how it is declared.
 
 ```java
-SortedSet<int> sortSet = new TreeSet<int>();
+SortedSet<Integer> sortSet = new TreeSet<Integer>();
 ```
 
 ## Tuples
@@ -119,7 +119,7 @@ It is the best way to loop over a set, because other ways involve more complicat
 
 ```java
 int[] arr = {2, 4, 5, 5, 1, 800, 800, 3}
-SortedSet<int> sortSet = new TreeSet<int>();
+SortedSet<Integer> sortSet = new TreeSet<Integer>();
 for (elem : arr) {
     sortSet.add(elem);
 }
