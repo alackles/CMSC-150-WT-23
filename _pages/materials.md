@@ -62,6 +62,7 @@ Guides to installation practices or supplementary materials will be listed here.
 # Additional Practice
 
 Here are resources  for additional practice, each with solutions. These are available if you want to try them; there's no need to submit them.
+
 ## Basic Practice Problems
 
 - [CodingBat](https://codingbat.com/java)
