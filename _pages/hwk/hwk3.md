@@ -155,3 +155,4 @@ do {
 
 **Question:** What does this experiment tell you about the difference between a while and do-while loop? Can you think of scenarios in which might use a do-while loop instead of a while loop? Or vice versa? Give your thoughts in 4-5 sentences.
 
+[collab]: https://alackles.github.io/CMSC-150-WT-23/syllabus/#collaboration-and-plagiarism

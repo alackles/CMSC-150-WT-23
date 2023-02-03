@@ -153,3 +153,5 @@ Example:
 ### Q9: Free Response Question
 
 Write out an _algorithm_ for converting a number from binary to decimal. This algorithm does not have to be in Java or in pseudocode; it can be in plain english. It should have clear steps to follow and should work for any positive binary number. 
+
+[collab]: https://alackles.github.io/CMSC-150-WT-23/syllabus/#collaboration-and-plagiarism
