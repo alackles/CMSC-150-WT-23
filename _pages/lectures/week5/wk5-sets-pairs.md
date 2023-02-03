@@ -1,5 +1,5 @@
 ---
-title: Week 5 Day 3 - Sets and Tuples
+title: Week 5 Day 3 - Sets
 permalink: /lectures/w5-d3
 toc: true
 toc_label: "Table of Contents"
@@ -8,12 +8,12 @@ toc_icon: "cog"
 
 Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week5).
 
-# Sets and Tuples
+# Sets 
 
-The purpose of today's class is to introduce you to two data structures in Java which are similar to arrays, but have slightly different properties. One is a _set_, which contains no duplicates; the other is a _tuple_, which unlike an array cannot be modified once created.
+The purpose of today's class is to introduce you to sets, which are similar to arrays, but have slightly different properties. 
 
 **By the end of today's class, you should be able to answer the following questions:**
-- How is a set different than an array? Than a tuple?
+- How is a set different than an array? 
 - In what circumstances might you want to create a set instead of an array? 
 - How do you traverse the elements of a set? 
 
@@ -92,24 +92,6 @@ If you want a set that is sorted, either numerically or alphabetically, you can 
 ```java
 SortedSet<Integer> sortSet = new TreeSet<Integer>();
 ```
-
-## Tuples
-
-Tuples in Java are created by specifying the number of elements you wish to include. 
-
-To create a pair, or a _2-tuple_:
-
-```java
-Pair<String, Integer> pair = new Pair<String,Integer>("Example", 1);
-```
-
-To create a triplet, or a _3-tuple_:
-
-```java
-Triplet<Integer, Integer, Integer> coords = new Triplet<Integer, Integer, Integer>(4, 2, 5);
-```
-
-Note the capital types; this will make more sense next week when we read about immutable objects and primitive types. For now, I'm just introducing tuples to you to get a sense that you can have more than just arrays.
 
 ## Enhanced For Loop
 

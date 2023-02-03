@@ -43,7 +43,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Nested Loops][w4-d1] | 1/23 | 
 | [Strings][w5-d1] | 1/30 | 
 | [Arrays][w5-d2] | 2/1 | 
-| [Sets and Tuples][w5-d3] | 2/3 | 
+| [Sets][w5-d3] | 2/3 | 
 
 # Past Quizzes
 
