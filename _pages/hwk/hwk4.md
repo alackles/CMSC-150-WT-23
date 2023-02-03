@@ -106,3 +106,5 @@ Once the chicken reaches home, print out the number of steps it took to get home
 - Your program should take integer input and give integer output.
 - Your program should contain at least one method besides main, and that method should return a value (that is, it should not be a method of type void.) That method should not print anything.
 - Your program should be called ChickenWalk.java.
+
+[collab]: https://alackles.github.io/CMSC-150-WT-23/syllabus/#collaboration-and-plagiarism
