@@ -44,6 +44,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Strings][w5-d1] | 1/30 | 
 | [Arrays][w5-d2] | 2/1 | 
 | [Sets][w5-d3] | 2/3 | 
+| [Immutable Objects][w6-d1] | 2/6 | 
 
 # Past Quizzes
 
@@ -97,6 +98,7 @@ _TBD._
 [w5-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d1
 [w5-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d2
 [w5-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d3
+[w6-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
