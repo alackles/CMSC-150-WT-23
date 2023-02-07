@@ -24,7 +24,7 @@ For mastery credit:
 Everything for proficiency, plus:
 
 - Your _main()_ method should have very little content; most of your content should be organized into their own encapsulated methods
-- Your review for your classmates should provide some suggestions for extended functionality
+- Your review for your classmates should provide at least one extended functionality
 
 # Lab Guide
 
@@ -38,28 +38,24 @@ Your job is to create a very simple "database" of people's names and their curre
 
 1. Allows the user to enter a name and an amount, and save that information somewhere
 2. Allows the user to enter a name and display their current amount of money
-3. Allows the user to enter a name and add some money to the account
-4. Allows the user to enter a name and remove some money from the account
 
 It is up to you and your group members how you want to accomplish these tasks. Here's some sample command-line input for what this could look like, with `>` representing input typed in by the user. 
 
 ```
 Welcome. 
-Please choose an option: [n]ew account, [d]isplay balance, [a]dd money, [w]ithdraw money, [q]uit:
+Please choose an option: [n]ew account, [d]isplay balance, [q]uit:
 > n
 Enter a name and a starting balance, separated by a space
 > Acacia 200
 New account created for "Acacia" with starting balance of $200.00
-Please choose an option: [n]ew account, [d]isplay balance, [a]dd money, [w]ithdraw money, [q]uit:
+Please choose an option: [n]ew account, [d]isplay balance, [q]uit:
 > d
 Please enter the name to see the balance:
 > Acacia
 Balance for "Acacia" is $200.00
-Please choose an option: [n]ew account, [d]isplay balance, [a]dd money, [w]ithdraw money, [q]uit:
-> a
-Please enter the name and amount to withdraw, separated by a space
-> Acacia 100
-Balance for "Acacia" is $100.00
+Please choose an option: [n]ew account, [d]isplay balance, [q]uit:
+> q
+Thank you.
 ```
 
 This is just one possible option of many. 
@@ -72,13 +68,12 @@ Do the following, and put the answers to your questions in the text of the pull 
 
 1. Test out adding a new entry; does it work as intended?
 2. Test out displaying an entry; does it work as intended?
-3. Test out adding money; does it work as intended?
-4. Test out withdrawing money; does it work as intended?
-5. Does the code appear _well organized_? Are there places the code could be organized better?
+3. Does the code appear _well organized_? Are there places the code could be organized better?
 
-For mastery credit, also do the following:
+For mastery credit, also _add_, with comments, one of the following as a new functionality.
 
-6. What are some possible changes this team could make to their code to make it more general or better able to handle unexpected input? 
+1. Allow the user to enter a name and add some money to the account
+2. Allow the user to enter a name and remove some money from the account
 
 ## Turn-In
 

@@ -37,7 +37,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 2/3 | Other Data Structures ([notes][w5-d3])+ Quiz 4 | HW3 | [HW4][hwk4] |
 | **Week 6** | **Objects** | | |
 | M 2/6 | Immutable Objects ([notes][w6-d1]) | Perusall | |
-| Tu 2/7 | _Lab 5: Designing a Database_ | | |
+| Tu 2/7 | [_Lab 5: Designing a Database_][lab5] | | |
 | W 2/8 | Mutable Objects + Quiz 5 | Perusall + HW4 | | 
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
 | **Week 7** | **Classes: Basics** | | |
@@ -72,6 +72,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [lab2]: https://alackles.github.io/CMSC-150-WT-23/labs/lab2
 [lab3]: https://alackles.github.io/CMSC-150-WT-23/labs/lab3
 [lab4]: https://alackles.github.io/CMSC-150-WT-23/labs/lab4
+[lab5]: https://alackles.github.io/CMSC-150-WT-23/labs/lab5
 
 [hwk1]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk1
 [hwk2]: https://alackles.github.io/CMSC-150-WT-23/hwk/hwk2
