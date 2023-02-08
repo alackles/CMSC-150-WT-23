@@ -1,6 +1,6 @@
 ---
 title: Week 6 Day 2 - Mutable Objects
-permalink: /lectures/w6-d1
+permalink: /lectures/w6-d2
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -123,4 +123,3 @@ On Windows, it’s likely under:
 
 `C:\Program Files\Java\...\lib`
 
-Remember how to get to these places on your terminal? 
