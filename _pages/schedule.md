@@ -38,7 +38,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 6** | **Objects** | | |
 | M 2/6 | Immutable Objects ([notes][w6-d1]) | Perusall | |
 | Tu 2/7 | [_Lab 5: Designing a Database_][lab5] | | |
-| W 2/8 | Mutable Objects + Quiz 5 | Perusall + HW4 | | 
+| W 2/8 | Mutable Objects ([notes][w6-d2]) + Quiz 5 | Perusall + HW4 | | 
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
 | **Week 7** | **Classes: Basics** | | |
 | M 2/13 | Classes: Constructors & Accessors | Perusall | |
