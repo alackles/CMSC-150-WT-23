@@ -51,93 +51,76 @@ class Parens {
 
 # Questions from the Reading
 
-## What is an Object
+> Why would I want to create a Point object instead of just an array of two objects? 
 
-> Is an array an object?
+> How does the Rectangle work? 
 
-> How do objects differ from classes or methods, and are classes and methods objects?
+> What is garbage collection, and why would I have to deal with it? 
 
-## Wrappers vs Primitives
-
-> Why have wrapper classes at all? Why not just have primitives? 
-
-> Which types are primitive and which are objects? How will I know?
-
-## Etc.
-
-> How do I work with null? Why would I want a null value? 
+> What do I do about all these vocab words?
 
 # Lecture/Live-Code
 
-## A Note on Organization
+Last class we talked about object-oriented programming as a paradigm for organizing programs. Today we are talking about _mutable objects_, which are the bread and butter that let us impelement that kind of paradigm.
 
-From now on, for future labs, your second exam, and for your final project, we will be organizing our code into chunks. Your _main_ method should contain very little code. It should primarily declare any global variables you might need (very few), take input from the command line, call methods, and print to the command line. Any other features should be organized into appropriate methods which are either void or return a value. 
+Mutable objects are basically ways to collect similar
 
-## Objects
+## Graphical Objects
 
-_Primitive variables_ are the most basic kinds of values your computer can work with. They're stored in some small area of memory and are directly used and accessed; there's very little built in to them besides the ability to perform certain operations. 
+The `java.awt` package contains some simple mutable objects that we can play around with. In next week's class, we'll create our own mutable objects; these are just some examples that are helpful to think about. 
 
-On the other hand, _objects_ provide interfaces for you to work with these primitive types as well as other types. 
+### Creating New Objects
 
-Objects and classes are not the same, and objects and methods are not the same. Objects are specific instances of a class or a method. 
-
-Think of it like this: the version of CMSC 150 that you are sitting in right now, CMSC 150 Winter Term 2023, is the object. It has all kinds of specific attributes: we meet from 9:50 - 11:00, in Briggs 419, and the roster is all of you. 
-
-The concept of CMSC 150, as a course you can take, is the class. Conceptually, it will have a meeting time, a meeting room, and a roster, but none of those things are set in stone or chosen. Once those things are chosen, that is a new instance of the class, and a new object.
-
-Methods are just things we can do to any version of the class. We can set the meeting time; that's a method. We can change the room number; that's a method. And calling those methods might create a new object, but methods themselves aren't objects. 
-
-## Wrapper Classes
-
-Wrapper classes provide additional functionality and have a primitive type at their 'core'. 
+Remember that objects are new instances of classes. So to create a new instance of the Point class, which will become a new point object, we can do:
 
 ```java
-Double x = new Double.valueOf(2.4);
+Point coord = new Point(3,4);
 ```
 
-This is much longer than saying `double x = 2.4`, but we get some nice features with this wrapper class.
+`coord` here is a reference to the Point object, which contains variables `x` and `y`.
+
+You can access these variables with
 
 ```java
-String i = x.toString();
+int xloc = coord.x;
+int yloc = coord.y;
 ```
 
-Here's an alternative way to write the same thing:
+You can work with these the same way you'd work with any other integers; they are just tied to the `coord` object which is of type `Point`. 
+
+Think: What do you think would happen if I passed `coord` into a method call? Do you think it would make a copy of the point object, or just a take it as a reference? How could you test this? 
+
+### Returning Objects
+
+One little wrinkle to keep in mind is that when you return an object from a method call, you have to create a _new_ object; that is, you have to explicitly use the keyword `new`. 
 
 ```java
-String j = Double.toString(2.4)
-```
-
-Note the difference in having to provide an argument when you just call it on the abstract concept of a 'Double' vs. when you are calling it on a specific instance of Double. 
-
-Here are the wrapper classes for the three most common data types we've been working with
-
-Primitive | Wrapper Class
------- | ------ |
-`int` | `Integer()`
-`double` | `Double()`
-`boolean` | `Boolean()`
-
-Note that `String()` is already a wrapper class, not a primitive. **The only reason you can declare a new string without `new` is because this feature has been intentionally added** since strings are so common. 
-
-## Finding a Max/Min Value
-
-This pattern of programming is very common, so I want to introduce it here explicitly where your book does. 
-
-```java
-int max = Integer.MIN_VALUE;
-for (String arg : args) {
-    int value = Integer.parseInt(arg);
-    if (value > max) {
-        max = value;
-    }
+public static Point findCenter(Rectangle box) {
+    int x = box.x + box.width/2;
+    int y = box.y + box.height/2;
+    return new Point(x,y);
 }
-System.out.println("The max is " + max);
 ```
 
-Note that we do a few things here:
+This should make sense if we think about how this would actually be called and used in code.
 
-1. Set the maximum value to a MINIMUM, so that we're guaranteed to find something larger than it or at least equal
-2. Iterate through the array
-3. Every time we find a value greater than the max, set the max to that new value
+```java
+Rectangle box = new Rectangle(0, 0, 100, 100);
+Point center = findCenter(box); // gets replaced with whatever is returned 
+```
 
-At the end, this will give us the maximal value in the array. 
+If you replace the `findCenter(box)` call with the returned value, you can see it exactly matches up to how you would usually define a point. 
+
+## Source Code
+
+Let's take a look at the source code for these objects on your computers the way that the book suggests we do. 
+
+On macOS, it’s likely under:
+
+`/Library/Java/JavaVirtualMachines/.../Contents/Home/lib`
+
+On Windows, it’s likely under: 
+
+`C:\Program Files\Java\...\lib`
+
+Remember how to get to these places on your terminal? 
