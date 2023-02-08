@@ -91,6 +91,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w5-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d2
 [w5-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d3
 [w6-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d1
+[w6-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
