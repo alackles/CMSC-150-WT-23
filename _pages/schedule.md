@@ -42,7 +42,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
 | **Week 7** | **Classes: Basics** | | |
 | M 2/13 | Classes: Constructors & Accessors ([notes][w7-d1])| Perusall | |
-| Tu 2/14 | _NO LAB: Final Project Proposal Meetings_ | | |
+| Tu 2/14 | _NO LAB: Final Project Proposal Meetings_: [Sign Up][propmeet] | | |
 | W 2/15 | Classes: Mutators & Overrides | Perusall | |
 | F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Classes: Advanced** | | |
@@ -92,6 +92,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w5-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d3
 [w6-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d1
 [w6-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d2
+[w7-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
@@ -101,3 +102,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [exam1-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1-prac/
 
 [mid-eval]: https://forms.gle/zoquh6tUMUbr8hKZ8
+[propmeet]: https://calendly.com/ackles/cmsc150-final
