@@ -41,7 +41,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 2/8 | Mutable Objects ([notes][w6-d2]) + Quiz 5 | Perusall + HW4 | | 
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
 | **Week 7** | **Classes: Basics** | | |
-| M 2/13 | Classes: Constructors & Accessors | Perusall | |
+| M 2/13 | Classes: Constructors & Accessors ([notes][w7-d1])| Perusall | |
 | Tu 2/14 | _NO LAB: Final Project Proposal Meetings_ | | |
 | W 2/15 | Classes: Mutators & Overrides | Perusall | |
 | F 2/17 | Final Project Discussion + Quiz 6 | |

@@ -47,6 +47,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Sets][w5-d3] | 2/3 | 
 | [Immutable Objects][w6-d1] | 2/6 | 
 | [Mutable Objects][w6-d2] | 2/8 | 
+| [Classes][w7-d1] | 2/13 | 
 
 # Past Quizzes
 
@@ -58,9 +59,19 @@ You can find past friday quizzes here, along with their answer keys.
 | [Quiz 2][quiz2] | 1/13 | 
 | [Quiz 3][quiz3] | 1/20 | 
 
-# Guides
+# Video Review
 
-Guides to installation practices or supplementary materials will be listed here. 
+## Amigoscode
+
+Full java course in just 3.5 hours, with timestamps in the description. Excellent if you need a refresher on any particular topic we've covered. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qgl81fPcLc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## New Boston
+
+A more project-based approach to Java, in case you'd like to see some code written or want single, shorter videos. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hl-zzrqQoSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Additional Practice
 
@@ -103,6 +114,7 @@ _TBD._
 [w5-d3]: https://alackles.github.io/CMSC-150-WT-23/lectures/w5-d3
 [w6-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d1
 [w6-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d2
+[w7-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
