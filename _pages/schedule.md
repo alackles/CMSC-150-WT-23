@@ -46,18 +46,18 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 2/15 | Classes: Mutators & Overrides | Perusall | |
 | F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Classes: Advanced** | | |
-| M 2/20 | Arrays of Objects | FInal Project Proposal | | 
+| M 2/20 | Arrays of Objects | Final Project Proposal | | 
 | Tu 2/21 | _Exam 2 Review_ |  | |
 | W 2/22 | Objects of Arrays | Perusall | |
 | F 2/24 | **EXAM 2** | Perusall | |
 | **Week 9** | **Final Project & Writing Good Code** | | | 
-| M 2/27 | Documentation & Error handling | Final Project Draft | Final Project Peer Comments |
+| M 2/27 | Documentation & Error handling |  |  |
 | Tu 2/28 | _Lab 6: Debug Challenge_ | | |
 | W 3/1 | Asking Good Questions | | |
-| F 3/3 | Final Project Work |  |  |
+| F 3/3 | Final Project Work | Final Project Draft | Final Project Peer Comments  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
-| M 3/6 | TBD: Student Choice | Final Project Peer Comments | | 
-| Tu 3/7 | _Lab: Final Project Work_ | | |
+| M 3/6 | TBD: Student Choice | | | 
+| Tu 3/7 | _Lab: Final Project Work_ | Final Project Peer Comments | |
 | W 3/8 | TBD: Student Choice | | |
 | F 3/10 | Course Debrief & Feedback | | End-of-Term Eval |
 
