@@ -14,6 +14,12 @@ Today we're mostly continuing our discussion of Classes from last lecture with m
 
 # Questions from the Reading
 
+> What is an instance?
+
+> What is a static method vs. an instance method? 
+
+> Checking for equality vs. identity -- what does it mean that two things are equal vs. that they are the same? 
+ 
 # Live-Code/Lecture
 
 We're continuing our Date example from last class. This time, we'll add some methods to print, to check for equivalency, and to change the date. 
