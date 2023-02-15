@@ -116,6 +116,7 @@ _TBD._
 [w6-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d1
 [w6-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d2
 [w7-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d1
+[w7-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
