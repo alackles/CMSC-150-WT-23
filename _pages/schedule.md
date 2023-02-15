@@ -43,7 +43,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 7** | **Classes: Basics** | | |
 | M 2/13 | Classes: Constructors & Accessors ([notes][w7-d1])| Perusall | |
 | Tu 2/14 | _NO LAB: Final Project Proposal Meetings_: [Sign Up][propmeet] | | |
-| W 2/15 | Classes: Mutators & Overrides | Perusall | |
+| W 2/15 | Classes: Mutators & Overrides ([notes][w7-d2])| Perusall | |
 | F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Classes: Advanced** | | |
 | M 2/20 | Arrays of Objects | Final Project Proposal | | 

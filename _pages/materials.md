@@ -48,6 +48,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Immutable Objects][w6-d1] | 2/6 | 
 | [Mutable Objects][w6-d2] | 2/8 | 
 | [Classes][w7-d1] | 2/13 | 
+| [Classes][w7-d2] | 2/15 | 
 
 # Past Quizzes
 
