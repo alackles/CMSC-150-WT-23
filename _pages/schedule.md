@@ -46,7 +46,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 2/15 | Classes: Mutators & Overrides ([notes][w7-d2])| Perusall | |
 | F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Classes: Advanced** | | |
-| M 2/20 | Arrays of Objects | Final Project Proposal | | 
+| M 2/20 | Arrays of Objects ([notes][w8-d1]) | Final Project Proposal | | 
 | Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
 | W 2/22 | Objects of Arrays | Perusall | |
 | F 2/24 | **EXAM 2** | Perusall | |
@@ -94,6 +94,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w6-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w6-d2
 [w7-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d1
 [w7-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d2
+[w8-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w8-d1
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
