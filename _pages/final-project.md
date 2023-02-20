@@ -37,6 +37,7 @@ The final project is meant to be a culmination of _all_ of the skills you have l
 
 If you hit all of these points, you'll be given full mastery credit. 5-7 will be given Proficiency, and less than 5 will be given Novice. 
 
+One example of how to structure such a project is given [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week7/FightGame/).
 
 ## Types of Projects
 
