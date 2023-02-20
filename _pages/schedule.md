@@ -47,7 +47,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 2/17 | Final Project Discussion + Quiz 6 | |
 | **Week 8** | **Classes: Advanced** | | |
 | M 2/20 | Arrays of Objects | Final Project Proposal | | 
-| Tu 2/21 | _Exam 2 Review_ |  | |
+| Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
 | W 2/22 | Objects of Arrays | Perusall | |
 | F 2/24 | **EXAM 2** | Perusall | |
 | **Week 9** | **Final Project & Writing Good Code** | | | 
@@ -101,6 +101,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam
 [exam1-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1-prac/
+[exam2-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam2-prac/
 
 [mid-eval]: https://forms.gle/zoquh6tUMUbr8hKZ8
 [propmeet]: https://calendly.com/ackles/cmsc150-final

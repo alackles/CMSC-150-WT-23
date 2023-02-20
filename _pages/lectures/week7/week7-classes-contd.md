@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week7/DateExample/src).
+Find code from class [here](https://github.com/alackles/CMSC-150-WT-23/tree/main/_pages/lectures/week7/).
 
 # Classes
 
