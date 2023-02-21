@@ -60,6 +60,9 @@ You can find past friday quizzes here, along with their answer keys.
 | [Quiz 1][quiz1] | 1/6 | 
 | [Quiz 2][quiz2] | 1/13 | 
 | [Quiz 3][quiz3] | 1/20 | 
+| [Quiz 4][quiz4] | 2/3 | 
+| [Quiz 5][quiz5] | 2/10 | 
+| [Quiz 6][quiz6] | 2/17 | 
 
 # Video Review
 
@@ -123,3 +126,6 @@ _TBD._
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
 [quiz3]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz3
+[quiz4]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz4
+[quiz5]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz5
+[quiz6]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz6
