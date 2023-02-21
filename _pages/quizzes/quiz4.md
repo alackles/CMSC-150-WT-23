@@ -12,9 +12,9 @@ Write out the Java syntax to declare a new array of length 100 to hold strings.
 
 <details><summary>Answer</summary>
 
-```java
+<code>
 String[] myArray = new String[100];
-```
+</code>
 
 </details>
 
@@ -32,13 +32,13 @@ if (a == b) { // uh oh, this won't work
 
 <details><summary>Answer</summary>
 
-```java
+<code>
 String a = "beep"
 String b = "beep"
 if (a.equals(b)) { // uh oh, this won't work
     System.out.println("Same word.");
 }
-```
+</code>
 
 </details>
 
@@ -49,6 +49,6 @@ Explain in a few sentences what a _reference_ is as it relates to arrays. Feel f
 
 <details><summary>Answer</summary>
 
-See [this chapter](https://greenteapress.com/thinkjava7/html/chapter-07.html#sec89) of your book.
+See <a href="https://greenteapress.com/thinkjava7/html/chapter-07.html#sec89">this chapter</a> of your book.
 
 </details>

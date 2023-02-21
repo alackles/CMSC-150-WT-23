@@ -20,7 +20,7 @@ A class is a template and an object is the thing created from that template.
 
 Consider the following code.
 
-```java
+<code>
 public static void movePointA(Point p, int x, int y) {
     p.x = x;
     p.y = y;
@@ -32,16 +32,16 @@ public static void movePointB(int px, int py, int x, int y) {
 Point coord = new Point(0, 0);
 movePointA(coord, 1, 1);
 movePointB(coord.x, coord.y, 7, 7);
-```
+</code>
 
 
 A) Explain the difference between these two methods; in particular, their parameters. 
 
 <details><summary>Answer</summary>
 
-`movePointA()` takes in a `Point` object as a parameter while `movePointB()` only takes in integers. 
+movePointA() takes in a Point object as a parameter while movePointB() only takes in integers. 
 
-Because objects are passed by reference, `movePointA()` actually changes the object passed in, while `movePointB()` does not because it passes in primitives.
+Because objects are passed by reference, movePointA() actually changes the object passed in, while movePointB() does not because it passes in primitives.
 
 </details>
 
@@ -51,6 +51,6 @@ B) Draw a visual representation of what the object coord looks like after line 1
 
 <details><summary>Answer</summary>
 
-The coordinate is at (1,1), because `movePointB()`does not actually alter the point's values.
+The coordinate is at (1,1), because movePointB()does not actually alter the point's values.
 
 </details>
