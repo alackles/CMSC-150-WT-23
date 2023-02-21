@@ -34,17 +34,17 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/30 | Strings ([notes][w5-d1])| Perusall | [Middle-of-Term Eval][mid-eval] |
 | Tu 1/31 | [_Lab 4: Git and GitHub_][lab4] | | |
 | W 2/1 | Arrays ([notes][w5-d2]) | Perusall |  | 
-| F 2/3 | Other Data Structures ([notes][w5-d3])+ Quiz 4 | HW3 | [HW4][hwk4] |
+| F 2/3 | Other Data Structures ([notes][w5-d3])+ [Quiz 4][quiz4] | HW3 | [HW4][hwk4] |
 | **Week 6** | **Objects** | | |
 | M 2/6 | Immutable Objects ([notes][w6-d1]) | Perusall | |
 | Tu 2/7 | [_Lab 5: Designing a Database_][lab5] | | |
-| W 2/8 | Mutable Objects ([notes][w6-d2]) + Quiz 5 | Perusall + HW4 | | 
+| W 2/8 | Mutable Objects ([notes][w6-d2]) + [Quiz 5][quiz5] | Perusall + HW4 | | 
 | _F 2/10_ | _NO CLASS: READING PERIOD_ | | |
 | **Week 7** | **Classes: Basics** | | |
 | M 2/13 | Classes: Constructors & Accessors ([notes][w7-d1])| Perusall | |
 | Tu 2/14 | _NO LAB: Final Project Proposal Meetings_: [Sign Up][propmeet] | | |
 | W 2/15 | Classes: Mutators & Overrides ([notes][w7-d2])| Perusall | |
-| F 2/17 | Final Project Discussion + Quiz 6 | |
+| F 2/17 | Final Project Discussion + [Quiz 6][quiz6] | |
 | **Week 8** | **Classes: Advanced** | | |
 | M 2/20 | Arrays of Objects ([notes][w8-d1]) | Final Project Proposal | | 
 | Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
@@ -99,6 +99,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
 [quiz3]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz3
+[quiz4]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz4
+[quiz5]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz5
+[quiz6]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz6
 
 [exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1
 [exam2-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam2
