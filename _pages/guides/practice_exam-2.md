@@ -47,7 +47,7 @@ Note: This problem is not autograded, so don't worry about following the print s
 
 ## Turn In
 
-Turn this problem in on Gradescope under Practice Exam. 
+Turn this problem in on **Canvas** under Practice Exam 2. Turn in both `.java` files. 
 
 ## Assessment
 
