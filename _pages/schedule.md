@@ -49,7 +49,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 2/20 | Arrays of Objects ([notes][w8-d1]) | Final Project Proposal | | 
 | Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
 | W 2/22 | Objects of Arrays | Perusall | |
-| F 2/24 | **EXAM 2** | Perusall | |
+| F 2/24 | **EXAM 2** ([info][exam2-info])| Perusall | |
 | **Week 9** | **Final Project & Writing Good Code** | | | 
 | M 2/27 | Documentation & Error handling |  |  |
 | Tu 2/28 | _Lab 6: Debug Challenge_ | | |
@@ -100,7 +100,8 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
 [quiz3]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz3
 
-[exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam
+[exam1-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1
+[exam2-info]: https://alackles.github.io/CMSC-150-WT-23/guides/exam2
 [exam1-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam1-prac/
 [exam2-prac]: https://alackles.github.io/CMSC-150-WT-23/guides/exam2-prac/
 

@@ -34,14 +34,16 @@ HHTHTTTHTT
 You win!
 ```
 
-Alternate output:
+Program call:
+
+java FlipCoin 10 5
 
 ```
 TTTTTTTHTH
 Try again.
 ```
 
-Note: This problem is not autograded, so don't worry about following the print statements exactly. 
+Note: This problem is not autograded, so don't worry about following the print statements exactly.
 
 ## Turn In
 
@@ -54,6 +56,7 @@ Turn this problem in on Gradescope under Practice Exam.
 - [ ] `Coin` class is implemented separately from `FlipCoin.java` program.
 - [ ] `flip()` is implemented as a class method, not a method in `FlipCoin.java`
 - [ ] A `Coin` object can be directly printed (e.g. `System.out.println(myCoin)` outputs either `H` or `T`).
+- [ ] The appropriate number of Coin objects are created for the problem statement; i.e., there are not more or fewer objects than necessary.
 - [ ] Arguments are handled via command line arguments
 - [ ] Program produces the correct output for valid integer inputs
 - [ ] Program has consistent style, spacing, and is well organized throughout
@@ -61,6 +64,6 @@ Turn this problem in on Gradescope under Practice Exam.
 ### Proficiency
 
 - [ ] Program produces the correct output but is missing one of the other mastery requirements, **OR**
-- [ ] Program does not produce the correct output or is not complete, but you write up a short (3-4 sentence) explanation of where you got stuck and include a sample output for your code vs. what it should be outputting, **OR**
-- [ ] Program does not produce the correct output or is not complete, but you give a plain-English explanation of the algorithm you would write but cannot figure out how to write in Java
+- [ ] Program hits at least 4 of the first 5 Mastery requirements **AND** you write up a short (3-4 sentence) explanation of where you got stuck and include a sample output for your code vs. what it should be outputting, **OR**
+- [ ] Program hits at least 4 of the first 5 Mastery requirements **AND** you give a plain-English explanation of the algorithm you would write but cannot figure out how to write in Java
 

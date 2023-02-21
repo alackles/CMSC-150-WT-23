@@ -1,6 +1,6 @@
 ---
 title: Exam Information
-permalink: /guides/exam/
+permalink: /guides/exam1/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
