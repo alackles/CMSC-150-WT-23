@@ -119,7 +119,8 @@ public class Date {
     }
     public static void main(String[] args) {
         System.out.println("Date class.");
-        printDate(2, 13, 2023)
+        Date newDate = new Date(2, 14, 2023);
+        newDate.printDate();
     }
 }
 ```
