@@ -48,12 +48,12 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 8** | **Classes: Advanced** | | |
 | M 2/20 | Arrays of Objects ([notes][w8-d1]) | Final Project Proposal | | 
 | Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
-| W 2/22 | Objects of Arrays | Perusall | |
-| F 2/24 | **EXAM 2** ([info][exam2-info])| Perusall | |
-| **Week 9** | **Final Project & Writing Good Code** | | | 
-| M 2/27 | Documentation & Error handling |  |  |
+| W 2/22 | NO CLASS: WEATHER | Perusall | |
+| F 2/24 | **EXAM 2** ([info][exam2-info])| | |
+| **Week 9** | **Final Project & Classes Cont'd** | | | 
+| M 2/27 | Arrays of Objects - Cont'd |  |  |
 | Tu 2/28 | _Lab 6: Debug Challenge_ | | |
-| W 3/1 | Asking Good Questions | | |
+| W 3/1 | Objects of Arrays| | |
 | F 3/3 | Final Project Work | Final Project Draft | Final Project Peer Comments  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
 | M 3/6 | TBD: Student Choice | | | 
