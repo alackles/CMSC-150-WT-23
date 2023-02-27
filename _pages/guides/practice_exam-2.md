@@ -36,7 +36,11 @@ You win!
 
 Program call:
 
+```
 java FlipCoin 10 5
+```
+
+Output:
 
 ```
 TTTTTTTHTH
