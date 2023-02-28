@@ -10,7 +10,7 @@ toc_icon: "cog"
 
 The purpose of this lab is to give you practice debugging some code that someone else has written. In this case, as in a previous homework question, you will be debugging a version of the second exam problem. 
 
-[Fork this GitHub repository]() and then clone it to your computer. Make any necessary changes to the code to allow it to fit the problem description and run as intended. Add, commit, and push your changes, then make a pull request on the original repository to submit your lab. 
+[Fork this GitHub repository](https://github.com/alackles/CMSC150-DebugLab) and then clone it to your computer. Make any necessary changes to the code to allow it to fit the problem description and run as intended. Add, commit, and push your changes, then make a pull request on the original repository to submit your lab. 
 
 ## Problem Description
 
