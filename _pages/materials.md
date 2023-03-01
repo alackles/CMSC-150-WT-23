@@ -52,6 +52,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Classes][w7-d2] | 2/15 | 
 | [Arrays of Objects][w8-d1] | 2/20 | 
 | [Arrays of Objects cont'd][w9-d1] | 2/27 | 
+| [Objects of Arrays][w9-d2] | 3/1 | 
 
 # Past Quizzes
 
@@ -126,6 +127,7 @@ _TBD._
 [w7-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d2
 [w8-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w8-d1
 [w9-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w9-d1
+[w9-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w9-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2

@@ -53,7 +53,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 9** | **Final Project & Classes Cont'd** | | | 
 | M 2/27 | Arrays of Objects - Cont'd ([notes][w9-d1]) |  |  |
 | Tu 2/28 | [_Lab 6: Debug Challenge_][lab6] | | |
-| W 3/1 | Objects of Arrays | | |
+| W 3/1 | Objects of Arrays ([notes][w9-d2]) | | |
 | F 3/3 | Final Project Work | Final Project Draft | Final Project Peer Comments  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
 | M 3/6 | TBD: Student Choice | | | 
@@ -97,6 +97,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w7-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w7-d2
 [w8-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w8-d1
 [w9-d1]: https://alackles.github.io/CMSC-150-WT-23/lectures/w9-d1
+[w9-d2]: https://alackles.github.io/CMSC-150-WT-23/lectures/w9-d2
 
 [quiz1]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz1
 [quiz2]: https://alackles.github.io/CMSC-150-WT-23/quizzes/quiz2
