@@ -7,6 +7,11 @@ public class Card {
     private final int rank;
     private final int suit;
 
+    public Card() {
+        this.rank = 1;
+        this.suit = 0;
+    }
+
     public Card(int rank, int suit) {
         this.rank = rank;
         this.suit = suit;

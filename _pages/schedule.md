@@ -56,7 +56,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 3/1 | Objects of Arrays ([notes][w9-d2]) | | |
 | F 3/3 | Final Project Work | Final Project Draft | Final Project Peer Comments  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
-| M 3/6 | TBD: Student Choice | | | 
+| M 3/6 | TBD: Student Choice ([poll][poll]) | | | 
 | Tu 3/7 | _Lab: Final Project Work_ | Final Project Peer Comments | |
 | W 3/8 | TBD: Student Choice | | |
 | F 3/10 | Course Debrief & Feedback | | End-of-Term Eval |
@@ -113,3 +113,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [mid-eval]: https://forms.gle/zoquh6tUMUbr8hKZ8
 [propmeet]: https://calendly.com/ackles/cmsc150-final
+[poll]: https://www.rcv123.org/ballot/6XFdWtg87nrum2BAkEXdis
