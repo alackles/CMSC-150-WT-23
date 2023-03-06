@@ -56,9 +56,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 3/1 | Objects of Arrays ([notes][w9-d2]) | | |
 | F 3/3 | Final Project Work | Final Project Draft | Final Project Peer Comments  |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
-| M 3/6 | TBD: Student Choice ([poll][poll]) | | | 
+| M 3/6 | A Brief History of Computer Science | | | 
 | Tu 3/7 | _Lab: Final Project Work_ | Final Project Peer Comments | |
-| W 3/8 | TBD: Student Choice | | |
+| W 3/8 | Problems You Can't Solve | | |
 | F 3/10 | Course Debrief & Feedback | | End-of-Term Eval |
 
 **Final Projects Due Wednesday, March 15 by 5:30 PM**

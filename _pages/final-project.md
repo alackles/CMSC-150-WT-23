@@ -85,7 +85,22 @@ The project draft does not have to be a completed version of your project, but y
 
 You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. This will come in the form of a **pull request on GitHub**. A specific feedback rubric will be provided for you (and posted here) at that time.
 
-**This must be completed on time (before lab on Tuesday, March 7).** Note that this cannot be turned in late because your peers must have ample time to revise their projects given your feedback
+**This must be completed on time (end of the day Thursday, 3/9).** Note that this cannot be turned in late because your peers must have ample time to revise their projects given your feedback
+
+To complete the peer review, do the following:
+
+1. **Fork** your assignee's repository.
+2. **Clone** the forked version to your computer
+3. Try things out. Make comments about anything you don't understand; you can even make changes to the program if you have an idea of what to do differently. The important thing is that you change the file in some way, either with a comment like "I'm not sure what's going on here" or "you could use a dictionary here instead of two lists" or something similar. This part is freeform. 
+4. **Add, commit, and push** the changes to GitHub.
+5. **Make a pull request** to merge back into your assignee's repository. In the longer comment box for the peer review, answer the following questions.
+
+- How **readable** did you find the code? How easy was it to figure out what was going on or what the code was intended to do?
+- What was something you found **well-done** about the code? Something you feel would be a strong place to build from, either already implemented or an idea of an implementation?
+- What was something you think could be **improved** and **do you have an idea to improve it**? 
+
+This constitutes your peer review. 
+
 
 ## Reflection
 
