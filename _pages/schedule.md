@@ -49,7 +49,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 2/20 | Arrays of Objects ([notes][w8-d1]) | Final Project Proposal | | 
 | Tu 2/21 | [_Exam 2 Review_][exam2-prac] |  | |
 | W 2/22 | NO CLASS: WEATHER | Perusall | |
-| F 2/24 | **EXAM 2** ([info][exam2-info])| | |
+| F 2/24 | **EXAM 2** ([info][exam2-info]) ([exam][exam2-pdf])| | |
 | **Week 9** | **Final Project & Classes Cont'd** | | | 
 | M 2/27 | Arrays of Objects - Cont'd ([notes][w9-d1]) |  |  |
 | Tu 2/28 | [_Lab 6: Debug Challenge_][lab6] | | |
@@ -114,3 +114,4 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [mid-eval]: https://forms.gle/zoquh6tUMUbr8hKZ8
 [propmeet]: https://calendly.com/ackles/cmsc150-final
 [poll]: https://www.rcv123.org/ballot/6XFdWtg87nrum2BAkEXdis
+[exam2-pdf]: https://alackles.github.io/CMSC-150-WT-23/assets/exam2.pdf
